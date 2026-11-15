@@ -1,0 +1,7 @@
+# Original game backups & runtime logs (DO NOT COMMIT)
+backup/
+mod.log
+
+# Large packed Unity asset & release zips (upload to GitHub Releases / Nexus Mods instead)
+resources.assets.gz
+*.zip

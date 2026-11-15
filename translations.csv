@@ -1,0 +1,1288 @@
+﻿key,en,th
+messagePopup_infoTitle,Info,ข้อมูล
+messagePopup_warningTitle,Warning,คำเตือน
+mainMenu_continue,Continue,เล่นต่อ
+mainMenu_newGame,New game,เริ่มเกมใหม่
+mainMenu_exit,Exit,ออกจากเกม
+header_guestsToGo,guests to go:,แขกที่เหลือ:
+header_guestsPerMinute,guests/day:,แขก/วัน:
+header_money,money:,เงิน:
+header_prestige,prestige:,ชื่อเสียง:
+header_nextDayButton,Start next day,เริ่มวันถัดไป
+propShop_title,SHOP,ร้านค้า
+propShop_tabTables,Tables,โต๊ะ
+propShop_tabSeats,Seats,ที่นั่ง
+propShop_tabKitchen,Kitchen,ห้องครัว
+propShop_tabDecorations,Decorations,ของตกแต่ง
+propShop_tabLights,Lights,แสงสว่าง
+propShop_tabSpecial,Special,พิเศษ
+propShop_lightSwitch,Show lights,แสดงแสงสว่าง
+drink_water,Water,น้ำเปล่า
+drink_beer,Beer,เบียร์
+drink_wine,Wine,ไวน์
+drink_lemonade,Lemonade,น้ำมะนาว
+drink_ale,Ale,เอล
+drink_mead,Mead,มี้ด
+drink_cider,Cider,ไซเดอร์
+drink_milk,Milk,นม
+barShop_title,BARRELS,ถังเครื่องดื่ม
+barShop_changePricesButton,Change prices,เปลี่ยนราคา
+barShop_refillAllButton,Refill all for {0},เติมทั้งหมดราคา {0}
+kitchenShop_title,KITCHEN,ห้องครัว
+researchButton_title,Research,วิจัย
+prop_seat_simpleBench,Simple bench,ม้านั่งธรรมดา
+prop_seat_smallBench,Small bench,ม้านั่งเล็ก
+prop_seat_stool,Stool,เก้าอี้สตูล
+prop_seat_deluxeStool,Deluxe stool,เก้าอี้สตูลดีลักซ์
+prop_seat_deluxeBench,Deluxe bench,ม้านั่งดีลักซ์
+prop_seat_woodenChair,Wooden chair,เก้าอี้ไม้
+prop_seat_comfyChair,Comfy chair,เก้าอี้นั่งสบาย
+prop_seat_vipChair,VIP chair,เก้าอี้ VIP
+prop_seat_luxStool,Lux stool,เก้าอี้สตูลหรู
+prop_seat_luxBench,Lux bench,ม้านั่งหรู
+prop_table_simpleTable,Simple table,โต๊ะธรรมดา
+prop_table_smallTable,Small table,โต๊ะเล็ก
+prop_table_strongTable,Strong table,โต๊ะแข็งแรง
+prop_table_longTable,Long table,โต๊ะยาว
+prop_table_heavyTable,Heavy table,โต๊ะใหญ่หนา
+prop_table_luxSmallTable,Lux small table,โต๊ะเล็กหรู
+prop_table_luxTable,Lux table,โต๊ะหรู
+prop_decoration_plant,Plant,กระถางต้นไม้
+prop_decoration_globe,Globe,ลูกโลก
+prop_decoration_bookshelf,Bookshelf,ชั้นหนังสือ
+prop_decoration_armor,Armor,ชุดเกราะ
+prop_decoration_fireplace,Fireplace,เตาผิง
+prop_light_candle,Candle,เทียนไข
+prop_light_candleStand,Candle stand,เชิงเทียนตั้งพื้น
+prop_light_lamp,Lamp,โคมไฟ
+prop_light_torch,Torch,คบเพลิง
+kitchen_prop_crate,Crate,ลังวัตถุดิบ
+kitchen_prop_grill,Fireplace grill,เตาย่าง
+kitchen_prop_choppingTable,Chopping table,เขียงเตรียมอาหาร
+kitchen_prop_basin,Basin,อ่างล้าง
+kitchen_prop_spiceShelf,Spice shelf,ชั้นวางเครื่องเทศ
+kitchen_prop_cauldron,Cauldron,หม้อต้มใหญ่
+prop_special_bar,Bar,บาร์เครื่องดื่ม
+prop_special_stairs,Stairs,บันได
+prop_barrel_beer,Beer barrel,ถังเบียร์
+prop_barrel_wine,Wine barrel,ถังไวน์
+prop_barrel_lemonade,Lemonade barrel,ถังน้ำมะนาว
+prop_barrel_ale,Ale barrel,ถังเอล
+prop_barrel_triple,Triple barrel,ถังเครื่องดื่มสามชนิด
+liter_short,L,ล.
+liter_long,liters,ลิตร
+prop_bought,BOUGHT,ซื้อแล้ว
+prop_use,USE ({0}),ใช้งาน ({0})
+staff_hire,Hire,จ้าง
+staff_salary,Salary:,ค่าจ้าง:
+staff_speed,Speed:,ความเร็ว:
+staff_level,level {0},เลเวล {0}
+staff_max,max,สูงสุด
+staff_xp,xp,xp
+event_regularParty,Regular party,งานเลี้ยงทั่วไป
+event_executioner,Executioner's meetup,ชุมนุมเพชฌฆาต
+event_wineTasting,Wine tasting,งานชิมไวน์
+event_workAnniversary,Work anniversary,งานฉลองครบรอบทำงาน
+event_battleVictory,Battle victory celebration,งานฉลองชัยชนะศึก
+event_pirate,Pirate gathering,รวมพลโจรสลัด
+event_viking,Viking theme party,ปาร์ตี้ธีมไวกิ้ง
+event_prince,Prince visit,เจ้าชายเสด็จเยือน
+event_merlin,Merlin the Wizard,พ่อมดเมอร์ลิน
+event_kingQueen,King and queen feast,งานเลี้ยงกษัตริย์และราชินี
+event_guests,Guests:,แขก:
+event_reward,Reward:,รางวัล:
+event_requirements,Requirements:,เงื่อนไข:
+event_noEventPlanned,No event planned,ยังไม่มีอีเวนต์ที่วางแผนไว้
+event_forWord,for,สำหรับ
+food_chickenBowl,Bowl of chicken,ไก่ต้มชาม
+food_tomatoSoup,Tomato soup,ซุปมะเขือเทศ
+food_vegetableSoup,Vegetable soup,ซุปผัก
+food_leekSoup,Leek soup,ซุปต้นกระเทียม
+food_bread,Bread,ขนมปัง
+food_fruit,Fruit bowl,ชามผลไม้
+food_cherryCake,Cherry cake,เค้กเชอร์รี
+food_rolls,Cream rolls,ครีมโรล
+food_pie,Apple pie,พายแอปเปิล
+food_steak,Steak,สเต็ก
+food_roastedFish,Roasted fish,ปลาย่าง
+food_fishSteak,Fish steak,สเต็กปลา
+foodPortrait_levelUp,LEVEL UP,เลเวลอัป
+techTree_kitchen,Kitchen,ห้องครัว
+techTree_events,Special events,อีเวนต์พิเศษ
+techTree_lemonade,Lemonade,น้ำมะนาว
+techTree_wine,Wine,ไวน์
+techTree_ale,Ale,เอล
+techTree_milkCiderMead,"Milk, cider, mead","นม, ไซเดอร์, มี้ด"
+techTree_guestsPerMin,+{0} guests/day,+{0} แขก/วัน
+techTree_waitress,+{0} waitress,+{0} พนักงานเสิร์ฟ
+techTree_chef,+1 chef,+1 พ่อครัว
+techTree_bar,+1 bar,+1 บาร์
+techTree_grill,Fireplace grill,เตาย่าง
+techTree_choppingTable,Chopping table,เขียงเตรียมอาหาร
+techTree_soup,Props for soup,อุปกรณ์ทำซุป
+techTree_startResearch,Start research,เริ่มวิจัย
+alertPopup_title,Warning,คำเตือน
+alertPopup_yes,Yes,ใช่
+alertPopup_cancel,Cancel,ยกเลิก
+alertPopup_staffFire,Are you sure you want this employee to <color=#FF1111>GET FIRED</color>? You will have to pay the remaining salary of <color=#FFCF00>{0}<sprite index=0></color>.,คุณแน่ใจหรือไม่ว่าต้องการ<color=#FF1111>ไล่พนักงานคนนี้ออก</color>? คุณจะต้องจ่ายค่าจ้างที่เหลือจำนวน <color=#FFCF00>{0}<sprite index=0></color>
+drinkPricePopup_title,Drink prices,ราคาเครื่องดื่ม
+drinkPricePopup_refill,Refill,เติม
+drinkPricePopup_sell,Sell,ขาย
+drinkPricePopup_sellPrice,Sell price:,ราคาขาย:
+drinkPricePopup_increase,Increase,เพิ่ม
+drinkPricePopup_decrease,Decrease,ลด
+drinkPricePopup_eventWarning,Event is in progress and all drinks cost {0},อีเวนต์กำลังดำเนินอยู่ และเครื่องดื่มทั้งหมดมีราคา {0}
+hirePopup_title,Hire,จ้างพนักงาน
+kitchenMenuPopup_title,Menu,เมนูอาหาร
+kitchenMenuPopup_average,Average: {0},เฉลี่ย: {0}
+drinkRefillPopup_title,Drink refill,เติมเครื่องดื่ม
+drinkRefillPopup_free,FREE,ฟรี
+drinkRefillPopup_fullRefill,Full refill,เติมเต็มถัง
+drinkRefillPopup_maxRefill,Max refill,เติมสูงสุด
+settingsPopup_title,Settings,ตั้งค่า
+settingsPopup_musicVolume,Music volume,ระดับเสียงเพลง
+settingsPopup_quality,Quality,คุณภาพกราฟิก
+settingsPopup_low,Low,ต่ำ
+settingsPopup_medium,Medium,ปานกลาง
+settingsPopup_high,High,สูง
+settingsPopup_fullscreen,Fullscreen,เต็มหน้าจอ
+settingsPopup_saveAndQuit,Save and quit,บันทึกและออก
+staffInfoPopup_title,Staff info,ข้อมูลพนักงาน
+staffInfoPopup_maxLevel,MAX LVL,เลเวลสูงสุด
+staffInfoPopup_levelUp,LEVEL UP,เลเวลอัป
+staffInfoPopup_responsibilityDrinks,Drinks,เครื่องดื่ม
+staffInfoPopup_responsibilityFood,Food,อาหาร
+staffInfoPopup_responsibilityCleaning,Cleaning,ทำความสะอาด
+staffInfoPopup_fireButton,Fire,ไล่ออก
+staffInfoPopup_moodWarning,Mood is low. Worker will quit if you don't increase the salary.,อารมณ์ไม่ดี พนักงานจะลาออกหากคุณไม่ขึ้นค่าจ้างให้
+staffPopup_title,Staff,พนักงาน
+staffPopup_bartenders,Bartenders,บาร์เทนเดอร์
+staffPopup_chefs,Chefs,พ่อครัว
+staffPopup_waitresses,Waitresses,พนักงานเสิร์ฟ
+staffPopup_totalSalaries,Total salaries: {0},ค่าจ้างรวม: {0}
+summaryPopup_title,Day summary,สรุปรายวัน
+summaryPopup_totalIncomeForDate,Total income for {0},รายได้รวมของวันที่ {0}
+summaryPopup_reason_drinksSold,Drinks sold ({0}),ยอดขายเครื่องดื่ม ({0})
+summaryPopup_reason_bonuses,Bonuses,โบนัส
+summaryPopup_reason_foodSold,Food sold ({0}),ยอดขายอาหาร ({0})
+summaryPopup_reason_purchases,Purchases,ค่าซื้อของ
+summaryPopup_reason_refills,Refills,ค่าเติมเครื่องดื่ม
+summaryPopup_reason_salaries,Salaries,ค่าจ้างพนักงาน
+summaryPopup_reason_taxes,Taxes,ภาษี
+techTreePopup_title,Research tree,ผังวิจัย
+techTreePopup_comingSoon,Coming soon,เร็วๆ นี้
+weeklyEventsPopup_title,Special events,อีเวนต์พิเศษ
+messagePopup_notEnoughTitle,Not enough!,ไม่เพียงพอ!
+messagePopup_lockedTitle,Locked,ถูกล็อก
+messagePopup_wrongTableTitle,Wrong table,โต๊ะไม่ถูกต้อง
+messagePopup_wrongBenchTitle,Wrong bench,ม้านั่งไม่ถูกต้อง
+messagePopup_wrongLightTitle,Wrong light,แสงสว่างไม่ถูกต้อง
+messagePopup_someStaffLeft,Some of your staff quit because they were too unhappy!,พนักงานบางคนลาออกเพราะไม่มีความสุขมากเกินไป!
+messagePopup_drinkLocked,This drink type is still locked. Unlock it in the research tree!,เครื่องดื่มชนิดนี้ยังถูกล็อกอยู่ ปลดล็อกได้ในผังวิจัย!
+messagePopup_notEnoughMoney,You don't have enough money for this action.,คุณมีเงินไม่พอสำหรับการดำเนินการนี้
+messagePopup_notEnoughMoneyForRefill,You don't have enough money to refill all barrels.,คุณมีเงินไม่พอสำหรับเติมถังเครื่องดื่มทั้งหมด
+messagePopup_soupsWarning,"To cook these soups you need to have a crate, a spice shelf, a basin and a cauldron. Go to the kitchen menu and buy these items.",การทำซุปเหล่านี้ต้องมีลังวัตถุดิบ ชั้นวางเครื่องเทศ อ่างล้าง และหม้อต้มใหญ่ ไปที่เมนูห้องครัวเพื่อซื้ออุปกรณ์เหล่านี้
+messagePopup_crateWarning,To cook this food you need to have a crate. Go to the kitchen menu where you can buy it.,การทำอาหารจานนี้ต้องมีลังวัตถุดิบ ไปที่เมนูห้องครัวเพื่อซื้อได้
+messagePopup_choppingTableWarning,"To cook this food you need to have a crate, a fireplace grill and a chopping table. Go to the kitchen menu where you can buy these items.",การทำอาหารจานนี้ต้องมีลังวัตถุดิบ เตาย่าง และเขียงเตรียมอาหาร ไปที่เมนูห้องครัวเพื่อซื้ออุปกรณ์เหล่านี้
+messagePopup_grillWarning,To cook this food you need to have a crate and a fireplace grill. Go to the kitchen menu where you can buy these items.,การทำอาหารจานนี้ต้องมีลังวัตถุดิบและเตาย่าง ไปที่เมนูห้องครัวเพื่อซื้ออุปกรณ์เหล่านี้
+messagePopup_itemLocked,This item is locked. Go to the research tree to unlock it.,ไอเทมนี้ถูกล็อกอยู่ ไปที่ผังวิจัยเพื่อปลดล็อก
+messagePopup_noSlotsForFood,You don't have more empty slots to serve more food.,คุณไม่มีช่องว่างสำหรับเสิร์ฟอาหารเพิ่มเติมแล้ว
+messagePopup_noPrestigeForEvent,You don't have enough prestige to schedule this event. You're missing {0}.,คุณมีชื่อเสียงไม่พอสำหรับจัดอีเวนต์นี้ ยังขาดอีก {0}
+messagePopup_noDrinksForEvent,You have not unlocked all the required drinks. Go to the bar shop and unlock {0}.,คุณยังไม่ได้ปลดล็อกเครื่องดื่มที่จำเป็นทั้งหมด ไปที่ร้านบาร์เครื่องดื่มเพื่อปลดล็อก {0}
+messagePopup_butFirstTable,We should buy the first table in the list,เราควรซื้อโต๊ะตัวแรกในรายการก่อน
+messagePopup_butFirstBench,We should buy the first bench in the list,เราควรซื้อม้านั่งตัวแรกในรายการก่อน
+messagePopup_butFirstLight,We should buy the first light in the list,เราควรซื้อไฟดวงแรกในรายการก่อน
+messagePopup_cantMoveUsedProp,You can't move this prop since it's being currently used.,คุณไม่สามารถย้ายสิ่งของนี้ได้เนื่องจากกำลังถูกใช้งานอยู่
+messagePopup_noRotate,It's impossible to rotate this prop. Try and make more space around it.,ไม่สามารถหมุนสิ่งของนี้ได้ ลองเคลียร์พื้นที่รอบๆ ให้กว้างขึ้น
+messagePopup_noMoneyForExpansion,You don't have enough money to buy this expansion.,คุณมีเงินไม่พอสำหรับซื้อส่วนขยายนี้
+tutorial_0,Welcome to your tavern! You will be in charge of managing and growing your business!,ยินดีต้อนรับสู่โรงเตี๊ยมของคุณ! คุณจะได้ดูแลการบริหารและขยายกิจการให้เติบโต!
+tutorial_2,Great job! You can also rotate the camera by holding your right mouse button and moving the mouse around.,เยี่ยมมาก! คุณยังสามารถหมุนกล้องได้โดยการกดปุ่มเมาส์ขวาค้างไว้แล้วเลื่อนเมาส์ไปรอบๆ
+tutorial_3,We only have one table in our tavern right now. That won't be enough so let's buy one more by clicking on the dining room button below!,ตอนนี้โรงเตี๊ยมของเรามีโต๊ะแค่ตัวเดียว ซึ่งไม่พอแน่นอน มาซื้อเพิ่มอีกตัวด้วยการคลิกปุ่มห้องอาหารด้านล่างกันเถอะ!
+tutorial_4,Let's buy the first table in the list.,มาซื้อโต๊ะตัวแรกในรายการกันเลย
+tutorial_5,We should now buy 2 benches. Let's open the seats tab.,ต่อไปเราควรซื้อม้านั่ง 2 ตัว เปิดแท็บที่นั่งกันเลย
+tutorial_6,Great! We need 1 more bench.,เยี่ยม! เรายังต้องการม้านั่งอีก 1 ตัว
+tutorial_7,You can see that 2 seats on the bench are marked with red which means they are not connected to a table.,คุณจะเห็นว่ามี 2 ที่นั่งบนม้านั่งที่แสดงสีแดง ซึ่งหมายความว่ายังไม่เชื่อมต่อกับโต๊ะ
+tutorial_8,Drag the bench to the marked area and confirm its purchase.,ลากม้านั่งไปยังบริเวณที่ทำเครื่องหมายไว้แล้วยืนยันการซื้อ
+tutorial_9,Great job! We now have enough tables and seats for customers to use! There is only one problem left.,เยี่ยมมาก! ตอนนี้เรามีโต๊ะและที่นั่งเพียงพอสำหรับลูกค้าแล้ว! เหลือปัญหาอยู่อีกเพียงอย่างเดียว
+tutorial_10,One of the benches does not have a light source close by which means customers will not use it.,มีม้านั่งตัวหนึ่งที่ไม่มีแหล่งกำเนิดแสงอยู่ใกล้ๆ ทำให้ลูกค้าจะไม่มานั่งใช้งาน
+tutorial_11,"To see exactly how well our tavern is lit, you can click on this checkbox to show lights.",เพื่อดูว่าโรงเตี๊ยมของเราสว่างแค่ไหน คุณสามารถคลิกช่องทำเครื่องหมายนี้เพื่อแสดงแสงสว่าง
+tutorial_12,We can see that one of the benches is not inside any light range. Let's buy a candle light to fix that.,เราจะเห็นว่ามีม้านั่งตัวหนึ่งอยู่นอกระยะแสงสว่าง มาซื้อเทียนไขเพื่อแก้ไขปัญหานี้กัน
+tutorial_13,"Great job! Now that we have enough seats for our guests, next step would be to buy beer to serve.",เยี่ยมมาก! ตอนนี้เรามีที่นั่งพอสำหรับแขกแล้ว ขั้นตอนต่อไปคือการซื้อเบียร์มาเสิร์ฟ
+tutorial_15,We currently only have water to serve. Let's buy another barrel to store the beer.,ตอนนี้เรามีแค่น้ำเปล่าให้เสิร์ฟ มาซื้อถังเพิ่มอีกใบเพื่อเก็บเบียร์กันเถอะ
+tutorial_16,To serve the beer we first have to fill the barrel. Click the fill bar to continue!,ในการเสิร์ฟเบียร์ เราต้องเติมเบียร์ลงถังก่อน คลิกแถบเติมเพื่อดำเนินการต่อ!
+tutorial_17,"Great job! We now have place for people to sit on, we have drinks to serve, final thing missing is to hire staff.",เยี่ยมมาก! ตอนนี้เรามีที่นั่งให้แขกแล้ว มีเครื่องดื่มพร้อมเสิร์ฟแล้ว สิ่งสุดท้ายที่ขาดคือการจ้างพนักงาน
+tutorial_18,Open the staff popup,เปิดหน้าต่างพนักงาน
+tutorial_19,Every day you'll get new candidates for hiring. Pick one of these 4 by clicking the hire button.,ในแต่ละวันจะมีผู้สมัครหน้าใหม่มาให้จ้าง เลือก 1 ใน 4 คนนี้โดยคลิกปุ่มจ้าง
+tutorial_20,You should hire a waitress now and we are done!,ตอนนี้คุณควรจ้างพนักงานเสิร์ฟ แล้วเราก็พร้อมแล้ว!
+tutorial_21,"We've prepared everything needed for the guests to start coming in. Before we un-pause the time, let's see how you can unlock new stuff for the tavern. Click the research button",เราได้เตรียมทุกอย่างที่จำเป็นสำหรับแขกที่กำลังจะเข้ามาแล้ว ก่อนจะเริ่มเดินเวลา มาดูวิธีปลดล็อกสิ่งใหม่ๆ ให้โรงเตี๊ยมกัน คลิกที่ปุ่มวิจัย
+tutorial_22,"Upgrades are researched by serving different types of guests and you can see the cost of research on the left side of it. For kitchen, we need to serve {0} common guests.",การอัปเกรดจะวิจัยได้จากการบริการแขกประเภทต่างๆ โดยดูค่าใช้จ่ายในการวิจัยได้ที่ด้านซ้าย สำหรับห้องครัว เราต้องบริการแขกทั่วไป {0} คน
+tutorial_23,"Our only option right now is to research the kitchen so click on the research button to start. After kitchen is finished, 3 more upgrades will be available for research.",ตอนนี้ตัวเลือกเดียวของเราคือการวิจัยห้องครัว คลิกปุ่มวิจัยเพื่อเริ่มต้นได้เลย หลังจากห้องครัวเสร็จ จะมีอัปเกรดใหม่อีก 3 อย่างให้วิจัย
+tutorial_24,Number of guests per day tells you how many people will come in to your tavern on average every day. Buy decorations and upgrade your tavern to increase that number.,จำนวนแขกต่อวันจะบอกคุณว่าโดยเฉลี่ยจะมีคนเข้าร้านวันละกี่คน ซื้อของตกแต่งและอัปเกรดโรงเตี๊ยมเพื่อเพิ่มจำนวนนี้
+tutorial_25,We are all set and our tavern can be opened! Click the play button to resume the game and wait for customers to come in!,ทุกอย่างพร้อมแล้ว และโรงเตี๊ยมของเราเปิดให้บริการได้แล้ว! คลิกปุ่มเล่นเพื่อเดินเกมต่อและรอลูกค้าเข้ามาได้เลย!
+tutorial_26,"My final tip to you is that you watch out if there is enough space to sit. If all the seats are taken, buy more tables and benches. Good luck!",คำแนะนำสุดท้ายจากฉันคือคอยสังเกตว่ามีที่นั่งเพียงพอหรือไม่ หากที่นั่งเต็มหมดแล้ว ให้ซื้อโต๊ะและม้านั่งเพิ่ม ขอให้โชคดี!
+tutorial_next,Next,ถัดไป
+guestsPerMinute_popupExplanation,This number tells you how many guests on average come in every day into your tavern.,ตัวเลขนี้บอกจำนวนแขกเฉลี่ยที่จะเข้ามาในโรงเตี๊ยมของคุณในแต่ละวัน
+guestsToGo_popupExplanation,This number tells you how many more guests will come into your tavern today.,ตัวเลขนี้บอกจำนวนแขกที่เหลือที่จะเข้ามาในโรงเตี๊ยมของคุณวันนี้
+messagePopup_maxPropsBought,You have already purchased maximum amount of this prop.,คุณซื้อสิ่งของชนิดนี้ครบจำนวนสูงสุดแล้ว
+kitchen_prop_plateShelf,Plate shelf,ชั้นวางจาน
+kitchen_prop_counter,Counter,เคาน์เตอร์
+messagePopup_stairsOverlapping,There are some objects on the floor above which prevent you from putting stairs to this position.,มีสิ่งของอยู่บนชั้นด้านบน ทำให้ไม่สามารถวางบันไดในตำแหน่งนี้ได้
+messagePopup_dockLocationInaccessible,This location is inaccessible to the employee.,พนักงานไม่สามารถเข้าถึงตำแหน่งนี้ได้
+messagePopup_cannotDeleteWall,These walls cannot be deleted because upper floors depend on it.,ไม่สามารถลบผนังนี้ได้เนื่องจากชั้นบนต้องพึ่งพาผนังนี้
+structureShop_tabBuild,Build,ก่อสร้าง
+structureShop_tabWallTexture,Wall texture,ลายผนัง
+structureShop_tabFloorTexture,Floor texture,ลายพื้น
+messagePopup_tutorialWrongPosition,You placed this prop on the wrong position. See where the hand is pointing to.,คุณวางสิ่งของนี้ผิดตำแหน่ง ดูตรงที่รูปมือชี้ไว้
+notification_barEmpty,Some barrels are empty in the bar on floor {0},มีถังเครื่องดื่มว่างเปล่าในบาร์ชั้น {0}
+notification_staffUnhappy,{0} is unhappy and might quit tomorrow,{0} ไม่มีความสุขและอาจลาออกในวันพรุ่งนี้
+notification_menuEmpty,Food menu is empty,เมนูอาหารว่างเปล่า
+notification_extraNotifications,{0} more,อีก {0} รายการ
+notification_numberOfWarnings,{0} warnings,{0} คำเตือน
+tutorial_1,Take a look around. Move the camera by dragging while holding down the scroll wheel or using {0} keys.,มองไปรอบๆ ดูสิ เลื่อนกล้องได้โดยกดล้อเมาส์ค้างไว้แล้วลาก หรือใช้ปุ่ม {0}
+tutorial_14,"To buy the beer, we should go to the bar first. Click on the bar to open the menu.",ในการซื้อเบียร์ เราต้องไปที่บาร์ก่อน คลิกที่บาร์เพื่อเปิดเมนู
+tutorial_27,"The tavern doesn't look like a tavern at all! One wall is missing, there are no doors and no windows. Let's fix that!",โรงเตี๊ยมยังไม่ดูเหมือนโรงเตี๊ยมเลย! ผนังหายไปด้านหนึ่ง ไม่มีทั้งประตูและหน้าต่าง มาซ่อมแซมกันเถอะ!
+tutorial_28,"First, let's build a missing wall. Click on the build wall button.",อันดับแรก มาสร้างผนังที่หายไปกัน คลิกที่ปุ่มสร้างผนัง
+tutorial_29,We will need a door so customers can come in.,เราต้องมีประตูเพื่อให้ลูกค้าเดินเข้ามาได้
+tutorial_30,Let's add one window as well.,มาเพิ่มหน้าต่างอีกสักบานด้วยกันเถอะ
+tutorial_31,Great job! Let's now buy some tables and benches!,เยี่ยมมาก! ตอนนี้มาซื้อโต๊ะและม้านั่งกันเลย!
+messagePopup_kitchenBonus,Congratulations on unlocking the kitchen! Here is {0} bonus so you have enough money to build it.,ยินดีด้วยที่ปลดล็อกห้องครัวได้! นี่คือโบนัส {0} เพื่อให้คุณมีเงินพอสำหรับสร้างห้องครัว
+messagePopup_eventBonus,All the guests for this event have been served! You received {0} as a reward.,บริการแขกทั้งหมดในอีเวนต์นี้ครบแล้ว! คุณได้รับ {0} เป็นรางวัล
+topHeader_floorLabel,floor:,ชั้น:
+techTree_newFloor,New floor,ชั้นใหม่
+techTree_extraCounter,+1 kitchen,+1 ห้องครัว
+techTree_extraFireplace,+1 fireplace grill,+1 เตาย่าง
+techTree_extraSoup,+1 props for soup,+1 อุปกรณ์ทำซุป
+hotelShop_bed0,Simple bed,เตียงธรรมดา
+hotelShop_bed1,Comfortable bed,เตียงนอนสบาย
+hotelShop_bed2,Silk bed,เตียงผ้าไหม
+hotelShop_bed3,Strong bed,เตียงแข็งแรง
+hotelShop_bed4,Lux bed,เตียงหรู
+hotelShop_wardrobe0,Chest,หีบเก็บของ
+hotelShop_wardrobe1,Small wardrobe,ตู้เสื้อผ้าเล็ก
+hotelShop_wardrobe2,Cabinet,ตู้เก็บของ
+hotelShop_wardrobe3,Medium wardrobe,ตู้เสื้อผ้ากลาง
+hotelShop_wardrobe4,Huge wardrobe,ตู้เสื้อผ้าใหญ่
+hotelShop_wardrobe5,Lux wardrobe,ตู้เสื้อผ้าหรู
+hotelShop_basin,Bathtub,อ่างอาบน้ำ
+hotelShop_smallWritingTable,Small writing table,โต๊ะเขียนหนังสือเล็ก
+hotelShop_bigWritingTable,Big writing table,โต๊ะเขียนหนังสือใหญ่
+hotelShop_clock,Clock,นาฬิกา
+hotelShop_panel,Room divider,ฉากกั้นห้อง
+hotelShop_bedsideTable,Bedside table,โต๊ะข้างเตียง
+hotelShop_tabBed,Beds,เตียง
+hotelShop_tabWardrobe,Wardrobes,ตู้เสื้อผ้า
+messagePopup_tooManyBedsInRoom,This room has more than 5 beds which is over the maximum amount of allowed beds inside a room.,ห้องพักนี้มีเตียงมากกว่า 5 เตียง ซึ่งเกินจำนวนเตียงสูงสุดที่อนุญาตภายในห้องพัก
+messagePopup_roomNoDoor,This room doesn't have any doors.,ห้องพักนี้ยังไม่มีประตู
+messagePopup_roomNoWindow,This room doesn't have any windows.,ห้องพักนี้ยังไม่มีหน้าต่าง
+messagePopup_roomNoWardrobe,This room doesn't have a wardrobe.,ห้องพักนี้ยังไม่มีตู้เสื้อผ้า
+messagePopup_propsInvalid,You can't buy a new prop because some props are overlapping. Make sure all tiles are green on all floors.,คุณไม่สามารถซื้อสิ่งของใหม่ได้เนื่องจากมีสิ่งของวางซ้อนทับกัน ตรวจสอบให้แน่ใจว่าช่องทั้งหมดเป็นสีเขียวในทุกชั้น
+roomInfoPopup_title,Room info,ข้อมูลห้องพัก
+roomInfoPopup_tooltipLow,<color=#FF7E00>Price is too low!</color> There is a {0}% chance this bed will be rented.,<color=#FF7E00>ราคาถูกเกินไป!</color> มีโอกาส {0}% ที่เตียงนี้จะถูกเช่า
+roomInfoPopup_tooltipGreat,<color=#C6F000>Price is just right!</color> There is a {0}% chance this bed will be rented.,<color=#C6F000>ราคาเหมาะสมมาก!</color> มีโอกาส {0}% ที่เตียงนี้จะถูกเช่า
+roomInfoPopup_tooltipBitHigh,<color=#FF7E00>Price is a bit high!</color> There is a {0}% chance this bed will be rented.,<color=#FF7E00>ราคาสูงไปนิด!</color> มีโอกาส {0}% ที่เตียงนี้จะถูกเช่า
+roomInfoPopup_tooltipTooHigh,<color=#FF1111>Price is way too high!</color> There is a {0}% chance this bed will be rented.,<color=#FF1111>ราคาแพงเกินไป!</color> มีโอกาส {0}% ที่เตียงนี้จะถูกเช่า
+roomInfoPopup_pricesTitle,Prices:,ราคา:
+roomInfoPopup_totalCost,Total cost: {0}{1},ค่าใช้จ่ายรวม: {0}{1}
+roomInfoPopup_requirementsStar,Requirements for {0},เงื่อนไขสำหรับ {0}
+roomInfoPopup_1Star_bed,Bed,เตียง
+roomInfoPopup_1Star_wardrobe,Wardrobe,ตู้เสื้อผ้า
+roomInfoPopup_1Star_door,Door,ประตู
+roomInfoPopup_1Star_window,Window,หน้าต่าง
+roomInfoPopup_1Star_decoration,1 decoration,ของตกแต่ง 1 ชิ้น
+roomInfoPopup_2Star_light,Light,แสงสว่าง
+roomInfoPopup_3Star_decorations,2 decorations,ของตกแต่ง 2 ชิ้น
+roomInfoPopup_3Star_bedsideTable,Bedside table,โต๊ะข้างเตียง
+roomInfoPopup_4Star_windows,2 windows,หน้าต่าง 2 บาน
+roomInfoPopup_5Star_fireplace,Fireplace,เตาผิง
+roomInfoPopup_5Star_bathtub,Bathtub,อ่างอาบน้ำ
+roomInfoPopup_bedStars,All beds in the room are {0}<sprite index=7> or more,เตียงทั้งหมดในห้องพักต้องมีระดับ {0}<sprite index=7> ขึ้นไป
+roomInfoPopup_wardrobeStars,All wardrobes in the room are {0}<sprite index=7> or more,ตู้เสื้อผ้าทั้งหมดในห้องพักต้องมีระดับ {0}<sprite index=7> ขึ้นไป
+roomInfoPopup_area,Room area is at least {0} tiles,พื้นที่ห้องพักอย่างน้อย {0} ช่อง
+roomInfoPopup_previous,All requirements for {0}<sprite index=7> fulfilled,ทำตามเงื่อนไขทั้งหมดของ {0}<sprite index=7> แล้ว
+techTree_hotel,Hotel,โรงแรม
+settingsPopup_resolution,Resolution,ความละเอียดหน้าจอ
+settingsPopup_language,Language,ภาษา
+mainMenu_settings,Settings,ตั้งค่า
+settingsPopup_languageChangeQuestion,In order to change the language main menu has to be loaded again. Do you wish to continue?,การเปลี่ยนภาษาจำเป็นต้องโหลดหน้าเมนูหลักใหม่ คุณต้องการดำเนินการต่อหรือไม่?
+messagePopup_notNearPillar,You have to put this item next to a pillar.,คุณต้องวางสิ่งของนี้ไว้ติดกับเสา
+messagePopup_notNearWall,You have to put this item on a wall.,คุณต้องวางสิ่งของนี้ไว้บนผนัง
+messagePopup_notNearWindow,Curtain has to be put on a window.,ผ้าม่านต้องนำไปติดที่หน้าต่าง
+messagePopup_overlapsWithHighProp,This item overlaps with some other item on the wall or some high item.,สิ่งของนี้ซ้อนทับกับสิ่งของอื่นบนผนังหรือสิ่งของทรงสูง
+messagePopup_propIsOutside,You have to put this item somewhere inside the tavern.,คุณต้องวางสิ่งของนี้ไว้ภายในโรงเตี๊ยม
+prop_decoration_painting,Painting,ภาพวาด
+prop_decoration_banner,Banner,ธงแขวน
+prop_decoration_curtain,Curtain,ผ้าม่าน
+prop_decoration_coatHanger,Coat hanger,ที่แขวนเสื้อโค้ท
+prop_decoration_shield,Shield,โล่
+buildModeIcon_noLight,There is no light near this seat.,ไม่มีแสงสว่างใกล้กับที่นั่งนี้
+buildModeIcon_notInRoom,This bed isn't inside a room.,เตียงนี้ไม่ได้อยู่ในห้องพัก
+messagePopup_noDecorationsInsideRoom,This room doesn't contain any decorations.,ห้องพักนี้ไม่มีของตกแต่งเลย
+staffTrait_tipDrink,Gets {0}{1} tip for every drink served,ได้รับทิป {0}{1} ต่อเครื่องดื่มทุกแก้วที่เสิร์ฟ
+staffTrait_tipFood,Gets {0}{1} tip for every food served,ได้รับทิป {0}{1} ต่ออาหารทุกจานที่เสิร์ฟ
+staffTrait_cleaningMood,Mood is not affected by cleaning,อารมณ์ไม่ลดลงจากการทำความสะอาด
+staffTrait_noSpeedLoss,Walking speed doesn't decrease when carrying something,ความเร็วในการเดินไม่ลดลงขณะถือของ
+staffTrait_waitressCarryMoreDrinks,Can carry {0} drinks at the same time,ถือเครื่องดื่มได้พร้อมกัน {0} แก้ว
+staffTrait_bartenderCarryMoreDrinks,Can carry {0} drinks at the same time,ถือเครื่องดื่มได้พร้อมกัน {0} แก้ว
+staffTrait_lowerMoodDrop,Mood decreases {0}% slower every day,อารมณ์ลดลงช้าลง {0}% ทุกวัน
+staffTrait_dessertsExtra,Receive {0}{1} bonus for every dessert served,ได้รับโบนัส {0}{1} ต่อของหวานทุกจานที่เสิร์ฟ
+staffTrait_mainCourseExtra,Receive {0}{1} bonus for every main course served,ได้รับโบนัส {0}{1} ต่ออาหารจานหลักทุกจานที่เสิร์ฟ
+staffTrait_soupExtra,Receive {0}{1} bonus for every soup served,ได้รับโบนัส {0}{1} ต่อซุปทุกถ้วยที่เสิร์ฟ
+staffTrait_doubleSoup,Prepare two soups at the same time,ปรุงซุปได้สองถ้วยพร้อมกัน
+staffTrait_doubleExperience,Gains experience two times faster,ได้รับค่าประสบการณ์เร็วขึ้นสองเท่า
+staffTrait_loyal,Never quits the job,ไม่มีวันลาออก
+staffTrait_noDaysOff,Doesn't ask for days off,ไม่ขอวันหยุด
+staffTrait_famous,Attracts +{0}{1} more customers every day,ดึงดูดลูกค้าเพิ่ม +{0}{1} คนต่อวัน
+staffTrait_title,Traits:,ลักษณะนิสัย:
+staffTrait_noTraits,No traits,ไม่มีลักษณะนิสัย
+foodPortrait_onMenu,On menu?,อยู่ในเมนู?
+techTree_unlimitedChef,Unlimited chefs,ไม่จำกัดจำนวนพ่อครัว
+techTree_hotelMisc1,Small hotel furniture,เฟอร์นิเจอร์โรงแรมขนาดเล็ก
+techTree_hotelMisc2,Big hotel furniture,เฟอร์นิเจอร์โรงแรมขนาดใหญ่
+techTree_drinkPrice,Drink price,ราคาเครื่องดื่ม
+techTree_unlimitedBar,Unlimited bars,ไม่จำกัดจำนวนบาร์
+techTree_unlimitedKitchen,Unlimited kitchens,ไม่จำกัดจำนวนครัว
+messagePopup_cannotSellBecauseItsInUse,You can't sell this item because it's currently being used by a chef.,คุณไม่สามารถขายสิ่งของนี้ได้เนื่องจากพ่อครัวกำลังใช้งานอยู่
+messagePopup_cannotRotateBecauseItsInUse,You can't rotate this item because it's currently being used by a chef.,คุณไม่สามารถหมุนสิ่งของนี้ได้เนื่องจากพ่อครัวกำลังใช้งานอยู่
+messagePopup_cannotSellProp,You can't sell this item because some employees are stationed at it. Move employees to other locations or fire everyone using this item.,คุณไม่สามารถขายสิ่งของนี้ได้เนื่องจากมีพนักงานประจำการอยู่ ย้ายพนักงานไปที่อื่นหรือไล่ทุกคนที่ใช้งานสิ่งของนี้ออกก่อน
+kitchenMenuPopup_chanceForSpecialGuests,{0}% chance for {1},โอกาส {0}% สำหรับ{1}
+settingsPopup_keyboardType,Keyboard layout,ผังแป้นพิมพ์
+summaryPopup_customersServed,Customers served:,ลูกค้าที่ให้บริการแล้ว:
+summaryPopup_totalSeats,"Total seats:
+{0}","ที่นั่งทั้งหมด:
+{0}"
+summaryPopup_averageOccupancy,"Average occupancy:
+{0}%","อัตราการเข้าใช้โดยเฉลี่ย:
+{0}%"
+summaryPopup_averageActionDuration,Average action duration:,ระยะเวลาการทำงานโดยเฉลี่ย:
+summaryPopup_serveDrinks,Serve drinks - {0}s,เสิร์ฟเครื่องดื่ม - {0} วินาที
+summaryPopup_takeFoodOrder,Take food order - {0}s,รับออเดอร์อาหาร - {0} วินาที
+summaryPopup_prepareFood,Prepare food - {0}s,ปรุงอาหาร - {0} วินาที
+summaryPopup_serveFood,Serve food - {0}s,เสิร์ฟอาหาร - {0} วินาที
+okayButton,Okay,ตกลง
+guestsPerDayInfoPopup_message,There are <color=#FFFFFF>{0}</color> guests coming into the tavern on average every day:,มีแขกเข้าร้านโรงเตี๊ยมโดยเฉลี่ยวันละ <color=#FFFFFF>{0}</color> คน:
+guestsPerDayInfoPopup_reasonDecorations,+{0}{1} from decorations,+{0}{1} จากของตกแต่ง
+guestsPerDayInfoPopup_reasonBarrels,+{0}{1} from barrels in bars,+{0}{1} จากถังเครื่องดื่มในบาร์
+guestsPerDayInfoPopup_reasonTechTree,+{0}{1} from research tree,+{0}{1} จากผังวิจัย
+guestsPerDayInfoPopup_reasonStaff,+{0}{1} from staff special traits,+{0}{1} จากลักษณะนิสัยพิเศษของพนักงาน
+guestsPerDayInfoPopup_reasonHighDrinkPrice,{0}{1} from higher drink price,{0}{1} จากราคาเครื่องดื่มที่สูงขึ้น
+loadingText,Loading...,กำลังโหลด...
+kitchenExplainPopup_title,Kitchen instructions,คำแนะนำเกี่ยวกับครัว
+kitchenExplainPopup_step1,Step 1: Go to the kitchen shop,ขั้นที่ 1: ไปที่ร้านค้าอุปกรณ์ครัว
+kitchenExplainPopup_step2,"Step 2: Buy a kitchen counter, plate shelf and a crate",ขั้นที่ 2: ซื้อเคาน์เตอร์ครัว ชั้นวางจาน และลังวัตถุดิบ
+kitchenExplainPopup_step3,Step 3: Hire a chef,ขั้นที่ 3: จ้างพ่อครัว
+kitchenExplainPopup_step4,Step4: Wait for customers to order food,ขั้นที่ 4: รอลูกค้าสั่งอาหาร
+messagePopup_drinkPriceDuringEvent,Drink price cannot be changed during an event.,ไม่สามารถเปลี่ยนราคาเครื่องดื่มระหว่างจัดอีเวนต์ได้
+addToWoshlistPopup_title,Add to wishlist!,เพิ่มลงในรายการที่อยากได้!
+addToWoshlistPopup_message,This feature is locked! It is available only in the full version of the game. Add Tavern Master to your wishlist to get notified when it is released!,ฟีเจอร์นี้ถูกล็อกอยู่! สามารถใช้งานได้เฉพาะในเกมเวอร์ชันเต็มเท่านั้น เพิ่ม Tavern Master ลงในรายการที่อยากได้เพื่อรับการแจ้งเตือนเมื่อเกมวางจำหน่าย!
+addToWoshlistPopup_wishlistButton,Add to wishlist!,เพิ่มลงในรายการที่อยากได้!
+thief_skip,Skip,ข้าม
+staffPopup_guards,Guards,ยาม
+guardInfoPopup_title,Guard info,ข้อมูลยาม
+guardInfoPopup_fire,Are you sure you want to fire this guard?,คุณแน่ใจหรือไม่ว่าต้องการไล่ยามคนนี้ออก?
+guardInfoPopup_lowThreat,Chance to defend against <color=#FFFFFF>low threat</color>: {0},โอกาสป้องกัน<color=#FFFFFF>ภัยคุกคามระดับต่ำ</color>: {0}
+guardInfoPopup_mediumThreat,Chance to defend against <color=#FFFF00>medium threat</color>: {0},โอกาสป้องกัน<color=#FFFF00>ภัยคุกคามระดับกลาง</color>: {0}
+guardInfoPopup_highThreat,Chance to defend against <color=#FF0000>high threat</color>: {0},โอกาสป้องกัน<color=#FF0000>ภัยคุกคามระดับสูง</color>: {0}
+guardInfoPopup_noMoneyForEquipment,You don't have enough money to buy this equipment,คุณมีเงินไม่พอซื้ออุปกรณ์นี้
+pauseMenuPopup_title,Menu,เมนู
+pauseMenuPopup_resume,Resume,เล่นต่อ
+pauseMenuPopup_skipTutorial,Skip tutorial,ข้ามบทสอนเล่น
+pauseMenuPopup_saveGame,Save,บันทึก
+pauseMenuPopup_loadGame,Load,โหลด
+pauseMenuPopup_settings,Settings,ตั้งค่า
+pauseMenuPopup_exitGame,Main menu,เมนูหลัก
+saveGamePopup_title,Save game,บันทึกเกม
+saveGamePopup_newSaveButton,New save file...,ไฟล์บันทึกใหม่...
+enterSaveFileNamePopup_title,Save game,บันทึกเกม
+enterSaveFileNamePopup_message,Please enter a name for the save file:,กรุณากรอกชื่อไฟล์บันทึก:
+enterSaveFileNamePopup_autosave,"Save file name cannot be ""autosave"".","ชื่อไฟล์บันทึกไม่สามารถใช้คำว่า ""autosave"" ได้"
+enterSaveFileNamePopup_done,Done,เสร็จสิ้น
+enterSaveFileNamePopup_placeholder,Enter file name...,กรอกชื่อไฟล์...
+enterSaveFileNamePopup_warning,File name cannot be empty.,ชื่อไฟล์ต้องไม่ว่างเปล่า
+enterSaveFileNamePopup_overwriteAutosave,You cannot overwrite {0} file.,คุณไม่สามารถบันทึกทับไฟล์ {0} ได้
+enterSaveFileNamePopup_confirmOverwrite,Are you sure you want to overwrite this save file?,คุณแน่ใจหรือไม่ว่าต้องการบันทึกทับไฟล์นี้?
+loadGamePopup_title,Load game,โหลดเกม
+loadGamePopup_areYouSure,All unsaved progress will be lost. Are you sure you want to continue?,ความคืบหน้าทั้งหมดที่ยังไม่ได้บันทึกจะสูญหาย คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?
+newDay_lowMoodWarning,Some of your employees are in a very low mood and they will quit if you start a new day. Continue?,พนักงานบางคนของคุณอารมณ์ไม่ดีอย่างมาก และจะลาออกหากคุณเริ่มวันใหม่ ต้องการดำเนินการต่อหรือไม่?
+propShop_showHeating,Show heating,แสดงความอบอุ่น
+buildModeIcon_noHeating,There is no heating near this seat.,ไม่มีเครื่องทำความร้อนใกล้กับที่นั่งนี้
+drink_blackTea,Black tea,ชาดำ
+drink_fruitTea,Fruit tea,ชาผลไม้
+drink_mulledWine,Mulled wine,ไวน์อุ่นเครื่องเทศ
+drink_warmMilk,Warm milk,นมอุ่น
+drink_coffee,Coffee,กาแฟ
+drink_teamMilkCoffee,"Black tea, warm milk and coffee",ชาดำ นมอุ่น และกาแฟ
+drink_rum,Rum,เหล้ารัม
+drink_orangeJuice,Orange juice,น้ำส้ม
+drink_peanuts,Peanuts,ถั่วลิสง
+drink_grog,Grog,กร็อก
+drink_gin,Gin,เหล้าจิน
+drink_whiteWine,White wine,ไวน์ขาว
+drink_grogGinWhiteWine,"Grog, gin and white wine",กร็อก เหล้าจิน และไวน์ขาว
+drinkRefillPopup_refillPeanuts1L,Refill 500g,เติม 500 กรัม
+drinkRefillPopup_refillPeanuts10l,Refill 5Kg,เติม 5 กก.
+drinkRefillPopup_titlePeanuts,Refill,เติมของ
+kilograms_long,kilograms,กิโลกรัม
+messagePopup_beachNoWalls,You cannot build any walls on the sand.,คุณไม่สามารถสร้างกำแพงบนพื้นทรายได้
+alertPopup_removeRemovableObject,Removing this tree will cost {0}{1}. Continue?,การรื้อถอนต้นไม้นี้จะมีค่าใช้จ่าย {0}{1} ดำเนินการต่อหรือไม่?
+alertPopup_sellMultipleObjects,Are you sure that you want to sell {0} items at once?,คุณแน่ใจหรือไม่ว่าต้องการขายสิ่งของ {0} ชิ้นพร้อมกัน?
+staffInfoPopup_responsibilities,Priority of responsibilities:,ลำดับความสำคัญของหน้าที่:
+staffInfoPopup_floorToServe,Floor to serve:,ชั้นที่ให้บริการ:
+staffInfoPopup_serveFloor0,Only 1st floor,เฉพาะชั้น 1
+staffInfoPopup_serveFloor1,Only 2nd floor,เฉพาะชั้น 2
+staffInfoPopup_serveFloor2,Only 3rd floor,เฉพาะชั้น 3
+staffInfoPopup_serveFloor3,Only 4th floor,เฉพาะชั้น 4
+staffInfoPopup_serveFloor4,Only 5th floor,เฉพาะชั้น 5
+staffInfoPopup_serveFloor5,Only 6th floor,เฉพาะชั้น 6
+staffInfoPopup_serveFloorAll,All floors,ทุกชั้น
+staffInfoPopup_stat_numberOfDrinks,<color=#BOBOBO>Carries:</color> {0} drinks,<color=#BOBOBO>จำนวนที่ถือได้:</color> เครื่องดื่ม {0} แก้ว
+staffInfoPopup_stat_walkingSpeedCarrying,<color=#BOBOBO>Speed (carrying):</color> {0}m/s,<color=#BOBOBO>ความเร็ว (ขณะถือของ):</color> {0} ม./วินาที
+staffInfoPopup_stat_walkingSpeedEmpty,<color=#BOBOBO>Speed (not carrying):</color> {0}m/s,<color=#BOBOBO>ความเร็ว (มือเปล่า):</color> {0} ม./วินาที
+staffInfoPopup_stat_tipBonus,<color=#BOBOBO>Tips:</color> {0}{1},<color=#BOBOBO>ทิป:</color> {0}{1}
+staffInfoPopup_stat_stairClimbingSpeed,<color=#BOBOBO>Speed (climbing stairs):</color> {0}m/s,<color=#BOBOBO>ความเร็ว (ขึ้นบันได):</color> {0} ม./วินาที
+staffInfoPopup_stat_drinkFillSpeed,<color=#BOBOBO>Drink pouring:</color> {0}s,<color=#BOBOBO>ความเร็วในการริน:</color> {0} วินาที
+staffInfoPopup_stat_totalSpeed,<color=#BOBOBO>Speed:</color> {0}m/s,<color=#BOBOBO>ความเร็ว:</color> {0} ม./วินาที
+staffInfoPopup_stat_desserMaking,<color=#BOBOBO>Skill for desserts:</color> +{0}{1},<color=#BOBOBO>ทักษะทำของหวาน:</color> +{0}{1}
+staffInfoPopup_stat_mainCourseMaking,<color=#BOBOBO>Skill for main courses:</color> +{0}{1},<color=#BOBOBO>ทักษะทำอาหารจานหลัก:</color> +{0}{1}
+staffInfoPopup_stat_soupMaking,<color=#BOBOBO>Skill for soups:</color> +{0}{1},<color=#BOBOBO>ทักษะทำซุป:</color> +{0}{1}
+staffInfoPopup_stat_readingSpeed,<color=#BOBOBO>Reading speed:</color> {0}{1} per day,<color=#BOBOBO>ความเร็วในการอ่าน:</color> {0}{1} ต่อวัน
+staffInfoPopup_stat_pointsRemaining,Points remaining: {0},แต้มที่เหลือ: {0}
+ingredient_fruit,Fruit,ผลไม้
+ingredient_vegetables,Vegetables,ผัก
+ingredient_meat,Meat,เนื้อสัตว์
+refillIngredientPopup_title,Food ingredients,วัตถุดิบอาหาร
+refillIngredientPopup_buy1,Buy 1,ซื้อ 1
+refillIngredientPopup_buyMax,Buy {0},ซื้อ {0}
+refillIngredientPopup_buyAll,Total: {0}{1},รวมทั้งหมด: {0}{1}
+notification_crateEmpty,Some crates missing ingredients on floor {0},มีลังวัตถุดิบบางลังขาดวัตถุดิบที่ชั้น {0}
+propShop_autoRefillBarrels,Supply storage,คลังเสบียง
+messagePopup_secondBarrelStorage,There is another supply storage on this floor already. You can only put one per floor.,มีคลังเสบียงอื่นอยู่บนชั้นนี้แล้ว คุณสามารถวางได้เพียง 1 หลังต่อชั้นเท่านั้น
+staffPopup_scientists,Researchers,นักวิจัย
+propShop_special_scientistTable,Research desk,โต๊ะวิจัย
+notification_noBookshelf,There is no bookshelf for researchers to use,ไม่มีชั้นวางหนังสือให้นักวิจัยใช้งาน
+techTree_light_bulb,Researchers,นักวิจัย
+propShop_tabCarpets,Carpets,พรม
+propShop_carpets_carpet0,Round carpet,พรมทรงกลม
+propShop_carpets_carpet1,Long carpet,พรมทรงยาว
+propShop_carpets_carpet2,Small carpet,พรมขนาดเล็ก
+propShop_carpets_carpet3,Medium carpet,พรมขนาดกลาง
+questsPopup_title,Quests,ภารกิจ
+questsPopup_claimed,Claimed,รับแล้ว
+food_cheese,Cheese,ชีส
+food_coconutPudding,Coconut pudding,พุดดิ้งมะพร้าว
+food_strawberryCake,Strawberry cake,เค้กสตรอว์เบอร์รี
+food_ham,Smoked ham,แฮมรมควัน
+food_turkey,Turkey,ไก่งวง
+food_walnutCake,Walnut cake,เค้กวอลนัท
+food_greenPeas,Green peas stew,สตูว์ถั่วลันเตา
+food_mushroomSoup,Mushroom soup,ซุปเห็ด
+food_fishStew,Fish stew,สตูว์ปลา
+ingredient_cheese,Cheese,ชีส
+ingredient_coconut,Coconut,มะพร้าว
+ingredient_walnut,Walnut,วอลนัท
+ingredient_strawberry,Strawberry,สตรอว์เบอร์รี
+ingredient_ham,Ham,แฮม
+ingredient_turkey,Turkey,ไก่งวง
+ingredient_greenPeas,Green peas,ถั่วลันเตา
+ingredient_mushroom,Mushroom,เห็ด
+ingredient_trout,Sea bass,ปลากะพงขาว
+ingredient_doAdventures,Hire adventurers to get these ingredients,จ้างนักผจญภัยเพื่อหาวัตถุดิบเหล่านี้
+messagePopup_foodLockedBecauseOfQuest,Complete more quests to unlock this food.,ทำภารกิจให้สำเร็จมากขึ้นเพื่อปลดล็อกอาหารนี้
+messagePopup_questStaffNoSpace,You already have maximum number of chef. Finish more researches or fire another chef.,คุณมีพ่อครัวครบจำนวนสูงสุดแล้ว วิจัยเพิ่มเติมหรือไล่พ่อครัวคนอื่นออกก่อน
+prop_decoration_mugsOnWall,Mugs on a wall,แก้วเบียร์ติดผนัง
+prop_decoration_swordOnWall,Swords,ดาบ
+prop_decoration_barrelWeapons,Barrel with weapons,ถังใส่อาวุธ
+prop_decoration_barrelScrolls,Barrel with scrolls,ถังใส่ม้วนคัมภีร์
+prop_decoration_booksOnWall,Bookshelf,ชั้นวางหนังสือ
+prop_decoration_catapult,Catapult,เครื่องยิงหินจำลอง
+prop_decoration_painting_monaLisa,Mona Lisa,โมนาลิซ่า
+prop_decoration_painting_starryNight,The Starry Night,ราตรีประดับดาว
+prop_decoration_painting_harvest,The Harvest,ฤดูเก็บเกี่ยว
+prop_decoration_painting_dutchShips,Dutch Ships in a Calm Sea,เรือดัตช์ในทะเลอันสงบ
+prop_decoration_painting_arnolfiniPortrait,Arnolfini Portrait,ภาพเหมือนอาร์นอลฟินี
+prop_decoration_painting_venus,The Birth of Venus,กำเนิดวีนัส
+propShop_free,FREE,ฟรี
+prop_special_adventurerTable,Adventurer's table,โต๊ะนักผจญภัย
+quest_task_tablesOwned,Own {0} tables,เป็นเจ้าของโต๊ะ {0} ตัว
+quest_task_seatsOwned,Own {0} benches,เป็นเจ้าของม้านั่ง {0} ตัว
+quest_task_CustomersServed,Serve {0} customers,ให้บริการลูกค้า {0} คน
+quest_task_PrepareXFoodYTimes,Prepare {0} {1} times,ปรุง {0} จำนวน {1} ครั้ง
+quest_task_OrganizeEvent,Organize any event once,จัดอีเวนต์ใดก็ได้ 1 ครั้ง
+quest_task_HaveHotelRooms,Build {0} hotel rooms,สร้างห้องพักโรงแรม {0} ห้อง
+quest_task_HaveAverageStars,Have an average {0}{1} for food,มีคะแนนอาหารเฉลี่ย {0}{1}
+quest_task_OwnCarpets,Own {0} carpets,เป็นเจ้าของพรม {0} ผืน
+quest_task_OwnDecoration,Own {0} decorations,เป็นเจ้าของของตกแต่ง {0} ชิ้น
+quest_task_AllStaffHappy,Make sure all staff is above 80% happiness,ทำให้พนักงานทุกคนมีความสุขเกิน 80%
+quest_task_ServeRareCustomers,Serve {0}{1} (rare) customers by organizing events,ให้บริการลูกค้า {0}{1} (หายาก) จากการจัดอีเวนต์
+quest_task_ServeGoldCustomers,Serve {0}{1} (gold) customers by organizing events,ให้บริการลูกค้า {0}{1} (ทอง) จากการจัดอีเวนต์
+quest_task_ServeRoyalCustomers,Serve {0}{1} (royal) customers by organizing events,ให้บริการลูกค้า {0}{1} (ราชวงศ์) จากการจัดอีเวนต์
+quest_task_OwnTablesFor8,Own {0} long tables for 8 people,เป็นเจ้าของโต๊ะยาวสำหรับ 8 คน จำนวน {0} ตัว
+quest_task_EarnMoreThanXInDay,Earn more than {0}{1} in one day,ทำรายได้มากกว่า {0}{1} ภายในหนึ่งวัน
+quest_task_ServeMoreThanXCustomersInDay,Serve more than {0} customers in a day,ให้บริการลูกค้ามากกว่า {0} คนภายในหนึ่งวัน
+quest_task_FinishResearch,Finish any research,ทำการวิจัยใดก็ได้ให้สำเร็จ
+quest_task_HaveStarHotelRoom,Have a {0} star hotel room,มีห้องพักโรงแรมระดับ {0} ดาว
+quest_task_HaveStarMeal,Reach {0} stars with any food,ทำให้อาหารจานใดก็ได้ถึงระดับ {0} ดาว
+quest_task_ServeOnlyDessertsWholeDay,Serve only desserts for the whole day,เสิร์ฟเฉพาะของหวานตลอดทั้งวัน
+quest_task_ServeOnlyMainCoursesWholeDay,Serve only main courses for the whole day,เสิร์ฟเฉพาะอาหารจานหลักตลอดทั้งวัน
+quest_task_ServeOnlySoupsWholeDay,Serve only soups for the whole day,เสิร์ฟเฉพาะซุปตลอดทั้งวัน
+quest_task_LevelUpEmployee,Level up any employee,อัปเลเวลพนักงานคนใดก็ได้
+quest_task_SendAdventurers,Start {0} adventures,เริ่มการผจญภัย {0} ครั้ง
+quest_task_BuyIngredients,Buy any ingredient {0} times,ซื้อวัตถุดิบใดก็ได้ {0} ครั้ง
+quest_task_RefillLitersOfDrinks,Refill {0} liters of any drink,เติมเครื่องดื่มชนิดใดก็ได้ {0} ลิตร
+quest_task_OwnDecorationsOfType_1100,Own {0} plants,เป็นเจ้าของต้นไม้ {0} ต้น
+quest_task_OwnDecorationsOfType_1102,Own {0} armor decorations,เป็นเจ้าของของตกแต่งชุดเกราะ {0} ชิ้น
+quest_task_SpendMoneyInDay,Spend more than {0}{1} in one day,ใช้จ่ายมากกว่า {0}{1} ภายในหนึ่งวัน
+quest_task_ReachCustomersPerDay,Reach {0}{1} (guests per day),มีแขกต่อวันถึง {0}{1} คน
+quest_task_DefendAgainstThieves,Defend against thieves once,ป้องกันขโมยได้สำเร็จ 1 ครั้ง
+quest_task_BuyBarrel,Buy a new barrel ({0}),ซื้อถังใหม่ ({0})
+quest_task_BuyAdventurerTable,Buy the adventurer's table,ซื้อโต๊ะนักผจญภัย
+questReward_floorTile,Floor tile,แผ่นพื้น
+questReward_newRecipe,New recipe,สูตรอาหารใหม่
+questReward_eliteChef,Elite chef,พ่อครัวระดับสูง
+questReward_eliteWaitress,Elite waitress,พนักงานเสิร์ฟระดับสูง
+questReward_eliteBartender,Elite bartender,บาร์เทนเดอร์ระดับสูง
+adventuresPopup_title,Adventures,การผจญภัย
+adventuresPopup_adventuresAvailable,Available adventures,การผจญภัยที่มีให้เลือก
+adventuresPopup_adventuresInProgress,Adventures in progress,การผจญภัยที่กำลังดำเนินการ
+adventuresPopup_availableAdventurers,Available adventurers:,นักผจญภัยที่ว่าง:
+adventureStartPopup_title,Start adventure,เริ่มการผจญภัย
+adventureStartPopup_chanceForSuccess,Chance for success:,โอกาสสำเร็จ:
+adventureStartPopup_chooseAdventurers,Choose adventurers:,เลือกนักผจญภัย:
+adventureStartPopup_start,Start?,เริ่มเลยไหม?
+summaryPopup_reason_adventures,Adventures,การผจญภัย
+adventure_searchForest,Search forest,สำรวจป่า
+adventure_searchMistyForest,Search misty forest,สำรวจป่าหมอก
+adventure_hunt,Hunt in the forest,ล่าสัตว์ในป่า
+adventure_market,Buy in the market,ซื้อของในตลาด
+adventure_fishing,Go fishing,ออกไปตกปลา
+adventure_city,Search city markets,ค้นหาในตลาดเมือง
+adventure_bandits,Defeat bandits,ปราบโจร
+adventure_roads,Secure roads,คุ้มกันเส้นทาง
+adventure_wagon,Protect wagon,คุ้มกันเกวียน
+adventure_village,Protect villagers,ปกป้องชาวบ้าน
+adventureRenderer_difficulty,Difficulty: {0}{1},ความยาก: {0}{1}
+adventureRenderer_cost,Cost: {0}{1},ค่าใช้จ่าย: {0}{1}
+adventureRenderer_chance,Chance for success: {0}%,โอกาสสำเร็จ: {0}%
+adventureRenderer_daysRemaining,Days remaining: {0},จำนวนวันที่เหลือ: {0}
+adventureRenderer_completed,COMPLETED,เสร็จสมบูรณ์
+adventure_successText,The adventure has been successful! You've got {0}.,การผจญภัยสำเร็จ! คุณได้รับ {0}
+adventure_failureText,The adventure has failed! Better luck next time.,การผจญภัยล้มเหลว! ขอให้โชคดีในครั้งหน้า
+messagePopup_title_success,Success,สำเร็จ
+messagePopup_title_failure,Failure,ล้มเหลว
+messagePopup_adventure0adventurers,You cannot start an adventure with 0 adventurers selected.,คุณไม่สามารถเริ่มการผจญภัยโดยไม่เลือกนักผจญภัยได้
+messagePopup_moreThan6Adventures,Maximum number of adventures in progress is 6.,จำนวนการผจญภัยที่ทำได้พร้อมกันสูงสุดคือ 6 ครั้ง
+messagePopup_allAdventurersLeft,The day has ended and all adventurers have already left.,หมดวันแล้วและนักผจญภัยทั้งหมดได้กลับไปแล้ว
+adventuresPopup_prestigeTooltip,Adventurer level is calculated based on prestige and it affects adventurer power ({0}),เลเวลของนักผจญภัยคำนวณจากชื่อเสียง และส่งผลต่อพลังของนักผจญภัย ({0})
+messagePopup_noIngredientsForEvent,You don't have enough ingredients to schedule this event.,คุณมีวัตถุดิบไม่พอสำหรับจัดอีเวนต์นี้
+messagePopup_eventAlreadyScheduled,This event has already been scheduled for some day in the next 7 days.,อีเวนต์นี้ถูกกำหนดเวลาไว้แล้วในวันใดวันหนึ่งของ 7 วันข้างหน้า
+messagePopup_foodLockedForEvent,You need to unlock new recipe ({0}) through quests to schedule this event.,คุณต้องปลดล็อกสูตรอาหารใหม่ ({0}) ผ่านภารกิจก่อนจึงจะจัดอีเวนต์นี้ได้
+techTree_adventures,Adventures,การผจญภัย
+summaryPopup_tab_overall,Overall,ภาพรวม
+summaryPopup_tab_angryCustomers,Angry customers,ลูกค้าที่โกรธ
+angryReason_deletedBench,Customer #{0} left because the target bench got deleted or the path to it became impossible,ลูกค้า #{0} ออกจากร้านเนื่องจากม้านั่งเป้าหมายถูกลบหรือเส้นทางเดินไปถูกปิดกั้น
+angryReason_deletedBed,Customer #{0} left because the target bed got deleted or the path to it became impossible,ลูกค้า #{0} ออกจากร้านเนื่องจากเตียงเป้าหมายถูกลบหรือเส้นทางเดินไปถูกปิดกั้น
+angryReason_movedFurniture,Customer #{0} left because furniture that was used got deleted or moved,ลูกค้า #{0} ออกจากร้านเนื่องจากเฟอร์นิเจอร์ที่ใช้งานอยู่ถูกลบหรือถูกย้าย
+angryReason_waitedTooLong,Customer #{0} on floor {1} waited too long:,ลูกค้า #{0} ที่ชั้น {1} รอนานเกินไป:
+angryReason_orderedDrink,Ordered {0},สั่ง {0}
+angryReason_orderedFood,Raised a hand to order food,ยกมือสั่งอาหาร
+angryReason_bartenderStart,Bartender {0} started pouring the drink on floor {1},บาร์เทนเดอร์ {0} เริ่มรินเครื่องดื่มที่ชั้น {1}
+angryReason_bartenderFinish,Bartender put the drink on the bar,บาร์เทนเดอร์วางเครื่องดื่มไว้ที่บาร์แล้ว
+angryReason_foodOrderTaken,Waitress {0} took an order for food ({1}),พนักงานเสิร์ฟ {0} รับออเดอร์อาหาร ({1})
+angryReason_orderReportedToChef,Food order reported to a chef,แจ้งออเดอร์อาหารให้พ่อครัวแล้ว
+angryReason_chefStart,Chef {0} on floor {1} started preparing the food,พ่อครัว {0} ที่ชั้น {1} เริ่มปรุงอาหาร
+angryReason_chefFinish,Chef put the prepared food on the counter,พ่อครัววางอาหารที่ปรุงเสร็จแล้วบนเคาน์เตอร์
+angryReason_waitressTookDrink,Waitress {0} took the drink to deliver it,พนักงานเสิร์ฟ {0} หยิบเครื่องดื่มไปเสิร์ฟ
+angryReason_waitressTookFood,Waitress {0} took the food to deliver it,พนักงานเสิร์ฟ {0} หยิบอาหารไปเสิร์ฟ
+angryReason_customerLeft,Customer left angry for waiting more than <color=#FFFFFF>{0}</color> seconds,ลูกค้าโกรธและออกจากร้านเพราะรอนานเกิน <color=#FFFFFF>{0}</color> วินาที
+angryReason_waitTime,<color=#FFFFFF>(waited {0} seconds)</color>,<color=#FFFFFF>(รอไป {0} วินาที)</color>
+angryReason_totalAngry,Total customers who left angry: {0},จำนวนลูกค้าที่โกรธและออกจากร้านทั้งหมด: {0}
+guestsPerDayInfoPopup_maximumGuests,<color={0}>Maximum number of guests per day is {1}.</color>,<color={0}>จำนวนแขกสูงสุดต่อวันคือ {1} คน</color>
+notification_noKitchenCounter,You're missing a kitchen counter,คุณยังไม่มีเคาน์เตอร์ครัว
+notification_noPlateShelf,You're missing a plates shelf,คุณยังไม่มีชั้นวางจาน
+notification_noCrate,You're missing a kitchen crate,คุณยังไม่มีลังวัตถุดิบในครัว
+propRenderer_colorPaletteHint,It's possible to change colors for this item,สามารถเปลี่ยนสีของสิ่งของนี้ได้
+messagePopup_cannotDeleteFloorTile,This floor tile cannot be deleted because it supports some props.,ไม่สามารถลบแผ่นพื้นนี้ได้เนื่องจากมีสิ่งของวางอยู่ด้านบน
+messagePopup_noAdventurersAvailable,There are no adventurers available for this adventure. More will come tomorrow morning.,ไม่มีนักผจญภัยว่างสำหรับการผจญภัยนี้ นักผจญภัยจะมาเพิ่มในเช้าวันพรุ่งนี้
+prop_special_stairsWide,Wide stairs,บันไดกว้าง
+propShop_special_musiciansPodium,Musicians podium,เวทีนักดนตรี
+musiciansPopup_title,Musicians podium,เวทีนักดนตรี
+musiciansPopup_description,Your selection will be applied tomorrow,ตัวเลือกของคุณจะมีผลในวันพรุ่งนี้
+bandType_none,None,ไม่มี
+bandType_one,1 person band,วง 1 คน
+bandType_two,2 person band,วง 2 คน
+bandType_three,3 person band,วง 3 คน
+bandType_four,Full band,วงเต็มรูปแบบ
+bandRenderer_numberOfSongs,{0} songs,{0} เพลง
+bandRenderer_benefits,"+{0}{1}
+guests wait {2}s more on this floor","+{0}{1}
+แขกรอได้นานขึ้น {2} วินาทีในชั้นนี้"
+bandRenderer_cost,{0}{1} per day,{0}{1} ต่อวัน
+guestsPerDayInfoPopup_reasonMusicians,+{0}{1} from musicians,+{0}{1} จากนักดนตรี
+techTree_musicians,Musicians,นักดนตรี
+settingsPopup_sfxVolume,Sound effects volume,ระดับเสียงเอฟเฟกต์
+tooltip_mood,This employee is {0}% happy. Increase salary or level up to improve happiness,พนักงานคนนี้มีความสุข {0}% เพิ่มเงินเดือนหรืออัปเลเวลเพื่อเพิ่มความสุข
+tooltip_customers,"You get these special guests by organizing events and improving food rating
+{0} - common
+{1} - rare
+{2} - gold
+{3} - royal","คุณจะได้แขกพิเศษเหล่านี้จากการจัดอีเวนต์และปรับปรุงคะแนนอาหาร
+{0} - ทั่วไป
+{1} - หายาก
+{2} - ทอง
+{3} - ราชวงศ์"
+tooltip_lightBulbs,You get research points {0} by hiring researchers in the staff menu,คุณจะได้รับแต้มวิจัย {0} จากการจ้างนักวิจัยในเมนูพนักงาน
+tooltip_highPriority,<color=#FF1110>High priority</color> - it will be done before all lower priorities,<color=#FF1110>ความสำคัญสูง</color> - จะทำก่อนงานที่มีความสำคัญต่ำกว่าทั้งหมด
+tooltip_mediumPriority,<color=#FF7F00>Medium priority</color> - it will be done after all high priority tasks are finished,<color=#FF7F00>ความสำคัญปานกลาง</color> - จะทำหลังจากงานความสำคัญสูงทั้งหมดเสร็จสิ้น
+tooltip_lowPriority,<color=#C6F000>Low priority</color> - it will be done after all high and medium priority tasks are finished,<color=#C6F000>ความสำคัญต่ำ</color> - จะทำหลังจากงานความสำคัญสูงและปานกลางทั้งหมดเสร็จสิ้น
+adventuresPopup_noAdventurersChosen,No adventurers chosen,ยังไม่ได้เลือกนักผจญภัย
+sellAllButton_label,Sell all ({0}{1}),ขายทั้งหมด ({0}{1})
+tooltip_foodColor,"<color={0}>Desserts</color> are colored yellow
+<color={1}>Main courses</color> are colored red
+<color={2}>Soups</color> are colored green","<color={0}>ของหวาน</color> เป็นสีเหลือง
+<color={1}>อาหารจานหลัก</color> เป็นสีแดง
+<color={2}>ซุป</color> เป็นสีเขียว"
+quest_task_BuyProp_54,Buy a musicians podium,ซื้อแท่นนักดนตรี
+quest_task_BuyProp_1000,Buy a kitchen crate,ซื้อลังวัตถุดิบสำหรับครัว
+quest_task_BuyProp_1001,Buy a kitchen grill,ซื้อเตาย่างสำหรับครัว
+quest_task_BuyProp_1002,Buy a chopping table for the kitchen,ซื้อโต๊ะหั่นสำหรับครัว
+quest_task_BuyProp_1003,Buy a basin for the kitchen,ซื้ออ่างน้ำสำหรับครัว
+quest_task_BuyProp_1004,Buy a spice shelf for the kitchen,ซื้อชั้นวางเครื่องเทศสำหรับครัว
+quest_task_BuyProp_1005,Buy a cauldron for the kitchen,ซื้อหม้อต้มสำหรับครัว
+quest_task_BuyProp_1006,Buy a plate shelf for the kitchen,ซื้อชั้นวางจานสำหรับครัว
+quest_task_BuyProp_1007,Buy a kitchen counter,ซื้อเคาน์เตอร์ครัว
+quest_task_HireMusicians,Hire some musicians,จ้างนักดนตรี
+quest_task_HireChef,Hire a chef,จ้างพ่อครัว
+kitchenExplainPopup_notUnlockedTopLabel,Here is how kitchen works once you unlock it:,นี่คือวิธีการทำงานของครัวเมื่อคุณปลดล็อกแล้ว:
+areYouSure_newGame,Are you sure you want to start a new game? Your current progress will be lost if you haven't saved,คุณแน่ใจหรือไม่ว่าต้องการเริ่มเกมใหม่? ความคืบหน้าปัจจุบันของคุณจะหายไปหากยังไม่ได้บันทึก
+messagePopup_oneThiefHasStolen,One of your barrels ({0}) has been stolen by a thief!,ถังของคุณหนึ่งถัง ({0}) ถูกขโมยไปแล้ว!
+messagePopup_twoThievesHaveStolen,Two of your barrels ({0} and {1}) have been stolen by thieves!,ถังของคุณสองถัง ({0} และ {1}) ถูกขโมยไปแล้ว!
+messagePopup_thievesLose,You have successfully defended against thieves!,คุณป้องกันขโมยได้สำเร็จแล้ว!
+tavernNamePopup_title,Tavern name,ชื่อโรงเตี๊ยม
+tavernNamePopup_description,Enter your tavern name:,กรอกชื่อโรงเตี๊ยมของคุณ:
+messagePopup_recreatedPrologue,A save file from either the demo version or Prologue version has been detected and recovered. Click the load game button and select Prologue to continue from where you stopped.,ตรวจพบและกู้คืนไฟล์เซฟจากเวอร์ชันเดโมหรือเวอร์ชัน Prologue แล้ว คลิกปุ่มโหลดเกมและเลือก Prologue เพื่อเล่นต่อจากจุดที่คุณหยุดไว้
+mainMenu_sandbox,Sandbox,แซนด์บ็อกซ์
+money_infinity,Infinite,ไม่จำกัด
+quest_task_ChangeTavernName,Change the tavern name by clicking the sign outside of the tavern,เปลี่ยนชื่อโรงเตี๊ยมโดยคลิกที่ป้ายด้านนอกโรงเตี๊ยม
+messagePopup_sandbox,It's recommended that you play the regular new game before playing sandbox. Are you sure that you want to start a new sandbox game?,ขอแนะนำให้คุณเล่นเกมใหม่แบบปกติก่อนเล่นโหมดแซนด์บ็อกซ์ คุณแน่ใจหรือไม่ว่าต้องการเริ่มเกมแซนด์บ็อกซ์ใหม่?
+hotelExplainPopup_step1,Step 1: Build a room with a door and a window,ขั้นตอนที่ 1: สร้างห้องพักที่มีประตูและหน้าต่าง
+hotelExplainPopup_step3,"Step 3: Buy a bed, wardrobe and a decoration",ขั้นตอนที่ 3: ซื้อเตียง ตู้เสื้อผ้า และของตกแต่ง
+hotelExplainPopup_step4,Step 4: Wait for customers to come in the evening,ขั้นตอนที่ 4: รอลูกค้าเข้ามาในตอนเย็น
+hotelExplainPopup_unlockedTopLabel,Congratulations on unlocking the hotel! Here is how it works:,ยินดีด้วยที่ปลดล็อกโรงแรมแล้ว! นี่คือวิธีการทำงาน:
+hotelExplainPopup_notUnlockedTopLabel,Here is how hotel works once you unlock it:,นี่คือวิธีการทำงานของโรงแรมเมื่อคุณปลดล็อกแล้ว:
+hotelExplainPopup_title,Hotel instructions,คำแนะนำโรงแรม
+eventsExplainPopup_title,Events instructions,คำแนะนำอีเวนต์
+eventsExplainPopup_unlockedTopLabel,Congratulations on unlocking the events! Here is how they work:,ยินดีด้วยที่ปลดล็อกอีเวนต์แล้ว! นี่คือวิธีการทำงาน:
+eventsExplainPopup_notUnlockedTopLabel,Here is how events work once you unlock them:,นี่คือวิธีการทำงานของอีเวนต์เมื่อคุณปลดล็อกแล้ว:
+eventsExplainPopup_step1,Step 1: Click the events button,ขั้นตอนที่ 1: คลิกปุ่มอีเวนต์
+eventsExplainPopup_step2,Step 2: Click the plus button,ขั้นตอนที่ 2: คลิกปุ่มบวก
+eventsExplainPopup_step3,Step 3: Choose the event and click to confirm it,ขั้นตอนที่ 3: เลือกอีเวนต์และคลิกเพื่อยืนยัน
+eventsExplainPopup_step4,Step 4: Wait for the event day to come,ขั้นตอนที่ 4: รอให้ถึงวันจัดอีเวนต์
+angryReason_bedWasMessy,Customer #{0} left because the bed was messy,ลูกค้า #{0} เดินออกจากร้านเพราะเตียงรก
+enterSaveFileNamePopup_fileExists,File with this name already exists. Are you sure you want to overwrite it?,มีไฟล์ชื่อนี้อยู่แล้ว คุณแน่ใจหรือไม่ว่าต้องการบันทึกทับ?
+messagePopup_thievesTutorial,Looks like a thief just stole one of your barrels! Make sure to hire a guard so that doesn't happen again.,ดูเหมือนว่าขโมยเพิ่งขโมยถังของคุณไปหนึ่งถัง! อย่าลืมจ้างยามเพื่อไม่ให้เกิดเหตุการณ์แบบนี้อีก
+prop_decoration_coatRack,Coat rack,ราวแขวนเสื้อ
+prop_decoration_telescope,Telescope,กล้องโทรทรรศน์
+hotelShop_mirror,Mirror,กระจกเงา
+prop_decoration_boatWheel,Boat wheel,พังงาเรือ
+prop_decoration_horns,Horns,เขาสัตว์
+propShop_carpets_animalSkin,Animal skin,พรมหนังสัตว์
+settingsPopup_tab_general,General,ทั่วไป
+settingsPopup_tab_controls,Controls,การควบคุม
+controlSchemeRenderer_moveCamera,Camera movement,เลื่อนกล้อง
+controlSchemeRenderer_rotateCamera,Camera rotation,หมุนกล้อง
+controlSchemeRenderer_rotateObject,Object rotation,หมุนวัตถุ
+controlSchemeRenderer_changeFloor,Change floor,เปลี่ยนชั้น
+controlSchemeRenderer_controlTime,Control time,ควบคุมเวลา
+controlSchemeRenderer_quickPause,Quick pause,หยุดชั่วคราวด่วน
+controlSchemeRenderer_pauseMenu,Pause menu,เมนูหยุดชั่วคราว
+controlSchemeRenderer_deleteObject,Delete objects,ลบวัตถุ
+mainMenu_joinCommunity,Join the Tavern Master community here!,เข้าร่วมชุมชน Tavern Master ที่นี่!
+questReward_newDecoration,New decoration,ของตกแต่งใหม่
+settingsPopup_timeFormat,Time format,รูปแบบเวลา
+bandRenderer_select,Select,เลือก
+bandRenderer_selected,Selected,เลือกแล้ว
+messagePopup_questStaffNoSpaceChef,You already have maximum number of chefs. Buy more kitchen counters or fire another chef.,คุณมีพ่อครัวครบจำนวนสูงสุดแล้ว ซื้อเคาน์เตอร์ครัวเพิ่มหรือไล่พ่อครัวคนอื่นออก
+messagePopup_questStaffNoSpaceBartender,You already have maximum number of bartenders. Buy more bars or fire another bartender.,คุณมีบาร์เทนเดอร์ครบจำนวนสูงสุดแล้ว ซื้อบาร์เพิ่มหรือไล่บาร์เทนเดอร์คนอื่นออก
+messagePopup_questStaffNoSpaceWaitress,"You already have maximum number of waitresses. Buy more kitchen counters, bars or fire another waitress.",คุณมีพนักงานเสิร์ฟครบจำนวนสูงสุดแล้ว ซื้อเคาน์เตอร์ครัว บาร์เพิ่ม หรือไล่พนักงานเสิร์ฟคนอื่นออก
+areYouSure_adventureIngredientsConfirm,The adventure was successful but there is not enough space to claim all ingredients. Do you want to claim the maximum possible amount({0}) and dismiss the rest?,การผจญภัยสำเร็จแล้ว แต่มีพื้นที่ไม่พอสำหรับเก็บวัตถุดิบทั้งหมด คุณต้องการเก็บจำนวนสูงสุดที่เป็นไปได้ ({0}) และทิ้งส่วนที่เหลือหรือไม่?
+messagePopup_noCrates,The adventure has been successful but there are no crates where the ingredients can be stored. Go to the shop and buy some kitchen crates.,การผจญภัยสำเร็จแล้ว แต่ไม่มีลังวัตถุดิบสำหรับเก็บวัตถุดิบ ไปที่ร้านค้าและซื้อลังวัตถุดิบสำหรับครัว
+eventBigBanner_requirement_recipe,Recipe,สูตรอาหาร
+eventBigBanner_requirement_tooltip,In total you have {0}{1},รวมทั้งหมดคุณมี {0}{1}
+kitchenMenuPopup_desserts,Desserts:,ของหวาน:
+kitchenMenuPopup_mainCourses,Main courses:,อาหารจานหลัก:
+kitchenMenuPopup_soups,Soups:,ซุป:
+kitchenMenuPopup_selectAll,All,ทั้งหมด
+kitchenMenuPopup_selectNone,None,ไม่เลือก
+messagePopup_cannotDeselectFoodDuringEvent,This food is required for the event in progress and cannot be removed from the menu.,อาหารนี้จำเป็นสำหรับอีเวนต์ที่กำลังดำเนินอยู่ จึงไม่สามารถนำออกจากเมนูได้
+kitchenMenuPopup_onMenuTitle,On menu,ในเมนู
+guestsPerDayInfoPopup_reasonFoodSelected,+{0}{1} from food on the menu,+{0}{1} จากอาหารในเมนู
+kitchenMenuPopup_eventIsInProgress,Event is in progress,กำลังมีอีเวนต์
+prop_special_stairsSpiral,Spiral stairs,บันไดเวียน
+techTree_extraChoppingTable,+1 chopping table,+1 โต๊ะหั่น
+roomInfoPopup_totalArea,area: {0} tiles,พื้นที่: {0} ช่อง
+messagePopup_propOverlapsWithWall,You can't buy a new prop because it overlaps with a wall.,คุณไม่สามารถซื้อของชิ้นใหม่ได้เพราะซ้อนทับกับกำแพง
+notification_noKitchenCounterOnLevel,You're missing a kitchen counter on floor {0},คุณยังไม่มีเคาน์เตอร์ครัวบนชั้น {0}
+notification_noPlateShelfOnLevel,You're missing a plates shelf on floor {0},คุณยังไม่มีชั้นวางจานบนชั้น {0}
+notification_noCrateOnLevel,You're missing a kitchen crate on floor {0},คุณยังไม่มีลังวัตถุดิบสำหรับครัวบนชั้น {0}
+tooltip_photoMode,Click to enter photo mode where UI will be removed. When you're finished click the escape key to exit.,คลิกเพื่อเข้าสู่โหมดถ่ายภาพซึ่งจะซ่อน UI ทั้งหมด เมื่อเสร็จแล้วให้กดปุ่ม Esc เพื่อออก
+propShop_special_waitressDock,Place for waitress,จุดประจำการพนักงานเสิร์ฟ
+hirePopup_refreshButton,Refresh,รีเฟรช
+tooltip_noPriority,This person will not do this responsibility,คนนี้จะไม่ทำงานในหน้าที่นี้
+tooltip_floorToServeCurrent,Each employee has to serve their own floor,พนักงานแต่ละคนต้องดูแลชั้นของตัวเอง
+indicatorsPopup_title,Indicators,ตัวบ่งชี้
+indicatorsPopup_iconSize,Size: {0}%,ขนาด: {0}%
+indicatorsPopup_iconWaitress,Waitress icon,ไอคอนพนักงานเสิร์ฟ
+indicatorsPopup_iconBartender,Bartender icon,ไอคอนบาร์เทนเดอร์
+indicatorsPopup_iconChef,Chef icon,ไอคอนพ่อครัว
+indicatorsPopup_iconScientist,Researcher icon,ไอคอนนักวิจัย
+indicatorsPopup_showPathfindingHeatmap,Show walkable area,แสดงพื้นที่เดินได้
+pathfindingHeatmapLegend,"Walkable <color=#0000FF>■</color>
+Slowed down <color=#0099FF>■</color>
+Not walkable <color=#FF0000>■</color>","เดินได้ <color=#0000FF>■</color>
+เดินช้าลง <color=#0099FF>■</color>
+เดินไม่ได้ <color=#FF0000>■</color>"
+prop_light_lantern,Lantern,โคมไฟ
+indicatorsPopup_showCustomerIcons,Show special customer icons (<sprite index=5><sprite index=2><sprite index=3>),แสดงไอคอนลูกค้าพิเศษ (<sprite index=5><sprite index=2><sprite index=3>)
+indicatorsPopup_showWaitingIndicator,Show indicator for waiting time,แสดงตัวบ่งชี้เวลารอ
+areYouSurePopup_deleteSaveFile,Are you sure you want to delete this save file?,คุณแน่ใจหรือไม่ว่าต้องการลบไฟล์เซฟนี้?
+staffInfoPopup_responsibilityCleanRoom,Hotel,โรงแรม
+techTree_unlimitedWaitress,More waitresses,เพิ่มพนักงานเสิร์ฟ
+staffInfoPopup_floorGroupTitle,Floor {0}:,ชั้น {0}:
+hotelExplainPopup_step2,Step 2: Go to the shop,ขั้นตอนที่ 2: ไปที่ร้านค้า
+hotelShop_tabMisc,Hotel room,ห้องพักโรงแรม
+staffInfoPopup_hireButton,Hire!,จ้างเลย!
+staffInfoPopup_guardSubtitle,guard,ยาม
+staffInfoPopup_cannotHireMoreGuards,You cannot hire another guard since you already have one hired.,คุณไม่สามารถจ้างยามเพิ่มได้อีกเนื่องจากคุณจ้างไว้แล้วหนึ่งคน
+staffPortrait_elite,elite,ระดับสูง
+changeStaffNamePopup_title,Change name,เปลี่ยนชื่อ
+changeStaffNamePopup_description,Enter the new name for this employee:,กรอกชื่อใหม่สำหรับพนักงานคนนี้:
+changeStaffNamePopup_confirmButton,Confirm,ยืนยัน
+tavernNamePopup_confirmButton,Confirm,ยืนยัน
+prop_seat_armchair,Armchair,เก้าอี้นวม
+prop_seat_sofa,Sofa,โซฟา
+propShop_clickToSelectProp,Click on an item below to select it,คลิกที่รายการด้านล่างเพื่อเลือก
+chooseColorPopup_title,Choose color,เลือกสี
+chooseColorPopup_description,Click and drag the cursor over the furniture in order to paint it. Choose the color below:,คลิกและลากเคอร์เซอร์ผ่านเฟอร์นิเจอร์เพื่อทาสี เลือกสีด้านล่าง:
+stopPaintingButton,Finish painting,ทาสีเสร็จสิ้น
+prop_table_luxLongTable,Lux long table,โต๊ะยาวหรูหรา
+messagePopup_infoPopup_crate0,Crate is used to store ingredients for making food. Level 1 crate can store 50 units of each ingredient.,ลังวัตถุดิบใช้สำหรับเก็บวัตถุดิบในการทำอาหาร ลังวัตถุดิบเลเวล 1 เก็บวัตถุดิบแต่ละชนิดได้ 50 หน่วย
+messagePopup_infoPopup_crate1,Crate is used to store ingredients for making food. Level 2 crate can store 60 units of each ingredient.,ลังวัตถุดิบใช้สำหรับเก็บวัตถุดิบในการทำอาหาร ลังวัตถุดิบเลเวล 2 เก็บวัตถุดิบแต่ละชนิดได้ 60 หน่วย
+messagePopup_infoPopup_crate2,Crate is used to store ingredients for making food. Level 3 crate can store 75 units of each ingredient.,ลังวัตถุดิบใช้สำหรับเก็บวัตถุดิบในการทำอาหาร ลังวัตถุดิบเลเวล 3 เก็บวัตถุดิบแต่ละชนิดได้ 75 หน่วย
+messagePopup_infoPopup_counter0,Chefs use the counter to place food down so waitresses can pick it up. Level 1 counter has space for 6 plates of food.,พ่อครัวใช้เคาน์เตอร์สำหรับวางอาหารเพื่อให้พนักงานเสิร์ฟมาหยิบไปเสิร์ฟ เคาน์เตอร์เลเวล 1 วางอาหารได้ 6 จาน
+messagePopup_infoPopup_counter1,Chefs use the counter to place food down so waitresses can pick it up. Level 2 counter has space for 12 plates of food.,พ่อครัวใช้เคาน์เตอร์สำหรับวางอาหารเพื่อให้พนักงานเสิร์ฟมาหยิบไปเสิร์ฟ เคาน์เตอร์เลเวล 2 วางอาหารได้ 12 จาน
+messagePopup_infoPopup_counter2,Chefs use the counter to place food down so waitresses can pick it up. Level 3 counter has space for 18 plates of food.,พ่อครัวใช้เคาน์เตอร์สำหรับวางอาหารเพื่อให้พนักงานเสิร์ฟมาหยิบไปเสิร์ฟ เคาน์เตอร์เลเวล 3 วางอาหารได้ 18 จาน
+messagePopup_infoPopup_grill0,Grill is used to prepare some main courses that require grilling. Level 1 grill can be used by 1 chef only.,เตาย่างใช้สำหรับทำอาหารจานหลักบางเมนูที่ต้องย่าง เตาย่างเลเวล 1 ใช้ได้โดยพ่อครัว 1 คนเท่านั้น
+messagePopup_infoPopup_grill1,Grill is used to prepare some main courses that require grilling. Level 2 grill can be used by 2 chefs simultaneously.,เตาย่างใช้สำหรับทำอาหารจานหลักบางเมนูที่ต้องย่าง เตาย่างเลเวล 2 ใช้พร้อมกันได้โดยพ่อครัว 2 คน
+messagePopup_infoPopup_grill2,Grill is used to prepare some main courses that require grilling. Level 3 grill can be used by 3 chefs simultaneously.,เตาย่างใช้สำหรับทำอาหารจานหลักบางเมนูที่ต้องย่าง เตาย่างเลเวล 3 ใช้พร้อมกันได้โดยพ่อครัว 3 คน
+messagePopup_infoPopup_cauldron0,Cauldron is used to boil soups. Level 1 cauldron can store up to 5 plates of soup.,หม้อต้มใช้สำหรับต้มซุป หม้อต้มเลเวล 1 เก็บซุปได้สูงสุด 5 จาน
+messagePopup_infoPopup_cauldron1,Cauldron is used to boil soups. Level 2 cauldron can store up to 6 plates of soup.,หม้อต้มใช้สำหรับต้มซุป หม้อต้มเลเวล 2 เก็บซุปได้สูงสุด 6 จาน
+messagePopup_infoPopup_cauldron2,Cauldron is used to boil soups. Level 3 cauldron can store up to 7 plates of soup.,หม้อต้มใช้สำหรับต้มซุป หม้อต้มเลเวล 3 เก็บซุปได้สูงสุด 7 จาน
+messagePopup_infoPopup_plateShelf,Chefs grab plates and bowls from the plate shelf.,พ่อครัวจะหยิบจานและชามจากชั้นวางจาน
+messagePopup_infoPopup_basin,Basin is used to provide water needed to prepare soups.,อ่างน้ำใช้สำหรับให้น้ำที่จำเป็นในการทำซุป
+messagePopup_infoPopup_spiceShelf,Spice shelf contains spices needed to prepare soups.,ชั้นวางเครื่องเทศบรรจุเครื่องเทศที่จำเป็นในการทำซุป
+messagePopup_infoPopup_choppingTable,Chopping table is used for additional meat preparation before it's grilled.,โต๊ะหั่นใช้สำหรับเตรียมเนื้อสัตว์เพิ่มเติมก่อนนำไปย่าง
+messagePopup_infoPopup_waitressDock,Additional places can be used to hire more waitresses and make them stationed wherever you want.,จุดประจำการเพิ่มเติมช่วยให้จ้างพนักงานเสิร์ฟได้มากขึ้นและให้ประจำอยู่ตรงไหนก็ได้ตามต้องการ
+messagePopup_infoPopup_researchDesk,Research desk is used by researchers to generate research points.,โต๊ะวิจัยใช้โดยนักวิจัยเพื่อสร้างแต้มวิจัย
+messagePopup_infoPopup_musiciansPodium,Musicians podium is used to hire musicians which attract more people to your tavern and make customers wait for longer before they get angry.,แท่นนักดนตรีใช้สำหรับจ้างนักดนตรี ซึ่งช่วยดึงดูดผู้คนเข้าโรงเตี๊ยมมากขึ้นและทำให้ลูกค้ารอได้นานขึ้นก่อนที่จะโกรธ
+messagePopup_infoPopup_adventurerTable,Adventurer's table is used to hire adventurers to go on special missions to get rare ingredients for special food.,โต๊ะนักผจญภัยใช้สำหรับจ้างนักผจญภัยให้ออกไปทำภารกิจพิเศษเพื่อหาวัตถุดิบหายากสำหรับอาหารพิเศษ
+propItemRenderer_description_counter,"Capacity:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+plates","ความจุ:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+จาน"
+propItemRenderer_description_crate,"Capacity:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+ingredients","ความจุ:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+วัตถุดิบ"
+propItemRenderer_description_grill,"Used by:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+chefs","ใช้งานโดย:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+พ่อครัว"
+propItemRenderer_description_cauldron,"Capacity:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+soups","ความจุ:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+ซุป"
+propUpgradePopup_title,Upgrade,อัปเกรด
+propUpgradePopup_counter,Capacity: {0} plates,ความจุ: {0} จาน
+propUpgradePopup_crate,Capacity: {0} ingredients,ความจุ: {0} วัตถุดิบ
+propUpgradePopup_grill,Used by: {0} chefs,ใช้งานโดย: พ่อครัว {0} คน
+propUpgradePopup_cauldron,Capacity: {0} soups,ความจุ: {0} ซุป
+summaryPopup_reason_upgrades,Upgrades,การอัปเกรด
+messagePopup_cannotUpgrade,In order to upgrade this item you have to do additional researches to unlock the upgrade.,หากต้องการอัปเกรดไอเทมนี้ คุณต้องทำการวิจัยเพิ่มเติมเพื่อปลดล็อกการอัปเกรด
+adventuresPopup_totalIngredient,Total ingredients: {0},วัตถุดิบทั้งหมด: {0}
+messagePopup_fireInProgress,There is an ongoing fire in your tavern! Extinguish it first.,กำลังเกิดไฟไหม้ในโรงเตี๊ยมของคุณ! รีบดับไฟก่อน
+propUpgradePopup_fireExtinguisher,Capacity: {0} buckets,ความจุ: {0} ถัง
+propItemRenderer_description_fireExtinguisher,"Capacity:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+buckets","ความจุ:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+ถัง"
+prop_special_fireExtinguisherWall,Fire extinguisher,ถังดับเพลิง
+prop_special_fireExtinguisher,Fire extinguisher,ถังดับเพลิง
+messagePopup_infoPopup_fireExtinguisher,Fire extinguisher is used by staff in case of fire.,พนักงานจะใช้ถังดับเพลิงในกรณีที่เกิดไฟไหม้
+messagePopup_infoPopup_notEnoughBucketsFireExtinguisher,There is not enough buckets for this employee to use. Try a different fire extinguisher.,มีถังน้ำไม่พอสำหรับพนักงานคนนี้ ลองใช้ถังดับเพลิงอื่น
+messagePopup_infoPopup_propHasBurnt,This item has burned down. You have to buy a new one or fix this one.,ไอเทมนี้ถูกไฟไหม้เสียหายแล้ว คุณต้องซื้อใหม่หรือซ่อมแซมอันนี้
+areYouSurePopup_cancelExtinguishing,This employee has already been told to extinguish the fire. Do you want to cancel that action?,พนักงานคนนี้ได้รับคำสั่งให้ดับไฟแล้ว คุณต้องการยกเลิกคำสั่งนั้นหรือไม่?
+areYouSurePopup_noOneExtinguishing,There is a fire in progress and you didn't tell any employee to extinguish the fire. Are you sure you want to resume the game?,กำลังเกิดไฟไหม้อยู่และคุณยังไม่ได้สั่งให้พนักงานคนไหนไปดับไฟ คุณแน่ใจหรือไม่ว่าต้องการเล่นเกมต่อ?
+fire_clickOnExtinguisher,Click on any fire extinguisher,คลิกที่ถังดับเพลิงใดก็ได้
+notification_fire,Fire broke out on floor {0},เกิดไฟไหม้บนชั้น {0}
+buyBurnedFurnitureAgainButton,Buy burned furniture again {0}{1},ซื้อเฟอร์นิเจอร์ที่ถูกไฟไหม้อีกครั้ง {0}{1}
+waxAndOilPopup_title,Wax and oil,ขี้ผึ้งและน้ำมัน
+waxAndOilFloorRenderer_totalLightSources,Total light sources: {0},แหล่งกำเนิดแสงทั้งหมด: {0}
+waxAndOilFloorRenderer_highRisk,"High risk of fire!
+({0}% chance per week)","ความเสี่ยงไฟไหม้สูง!
+(โอกาส {0}% ต่อสัปดาห์)"
+waxAndOilFloorRenderer_mediumRisk,"Moderate risk of fire!
+({0}% chance per week)","ความเสี่ยงไฟไหม้ปานกลาง!
+(โอกาส {0}% ต่อสัปดาห์)"
+waxAndOilFloorRenderer_lowRisk,"Low risk of fire!
+({0}% chance per week)","ความเสี่ยงไฟไหม้ต่ำ!
+(โอกาส {0}% ต่อสัปดาห์)"
+waxAndOilFloorRenderer_dropdownLowQuality,Bad wax and oil quality ({0}{1} per day),คุณภาพขี้ผึ้งและน้ำมันต่ำ ({0}{1} ต่อวัน)
+waxAndOilFloorRenderer_dropdownMediumQuality,Moderate wax and oil quality ({0}{1} per day),คุณภาพขี้ผึ้งและน้ำมันปานกลาง ({0}{1} ต่อวัน)
+waxAndOilFloorRenderer_dropdownHighQuality,Excellent wax and oil quality ({0}{1} per day),คุณภาพขี้ผึ้งและน้ำมันดีเยี่ยม ({0}{1} ต่อวัน)
+summaryPopup_reason_waxAndOil,Wax and oil,ขี้ผึ้งและน้ำมัน
+notification_noFireExtinguisher,There is no fire extinguisher on floor {0},ไม่มีถังดับเพลิงบนชั้น {0}
+quest_task_BuyFireExtinguisher,Buy a fire extinguisher,ซื้อถังดับเพลิง
+fireExplainPopup_title,Fire!,ไฟไหม้!
+fireExplainPopup_description,A fire broke in your tavern on floor {0}! Order your staff to go to fire extinguishers and they will do their best to extinguish it.,เกิดไฟไหม้ในโรงเตี๊ยมของคุณบนชั้น {0}! สั่งให้พนักงานไปที่ถังดับเพลิง แล้วพวกเขาจะพยายามดับไฟอย่างเต็มที่
+fireExplainPopup_step1,Step 1: Click on an employee,ขั้นตอนที่ 1: คลิกที่พนักงาน
+fireExplainPopup_step2,Step 2: Find closest fire extinguisher and click it,ขั้นตอนที่ 2: หาถังดับเพลิงที่ใกล้ที่สุดแล้วคลิก
+fireExplainPopup_step3,Step 3: Use steps 1 and 2 to order other employees to extinguish,ขั้นตอนที่ 3: ทำตามขั้นตอนที่ 1 และ 2 เพื่อสั่งพนักงานคนอื่นไปดับไฟ
+fireExplainPopup_step4,Step 4: Wait for the fire to be extinguished,ขั้นตอนที่ 4: รอให้ไฟดับลง
+messagePopup_cannotSaveDuringFire,There is a fire in progress. You cannot save until it is extinguished.,กำลังเกิดไฟไหม้อยู่ คุณไม่สามารถบันทึกเกมได้จนกว่าไฟจะดับ
+prop_special_toilet,Toilet cabin,ห้องส้วม
+prop_special_washbasin,Washbasin,อ่างล้างมือ
+messagePopup_infoPopup_toilet,Used by customers occasionally when they have too many drinks,ลูกค้าจะใช้งานเป็นครั้งคราวเมื่อดื่มมากเกินไป
+messagePopup_infoPopup_washbasin,Used by customers to wash their hands after using the toilet,ลูกค้าใช้ล้างมือหลังจากเข้าห้องน้ำ
+buildModeIcon_toiletNotInRoom,This toilet cabin isn't inside a room.,ห้องส้วมนี้ไม่ได้อยู่ภายในห้อง
+buildModeIcon_toiletHasIllegalProps,This toilet cabin is in the same room as some other furniture that is not allowed near toilets (like a table or a bench),ห้องส้วมนี้อยู่ในห้องเดียวกับเฟอร์นิเจอร์ที่ไม่อนุญาตให้อยู่ใกล้ห้องน้ำ (เช่น โต๊ะหรือม้านั่ง)
+buildModeIcon_noWashbasin,There is no washbasin in this room,ไม่มีอ่างล้างมือในห้องนี้
+buildModeIcon_toiletNoDoor,It's impossible to access this toilet cabin because there are no doors for this room,ไม่สามารถเข้าถึงห้องส้วมนี้ได้เพราะห้องนี้ไม่มีประตู
+angryReason_noToilet,Customer #{0} left because there were no available toilet cabins to use on floor {1},ลูกค้า #{0} เดินออกจากร้านเพราะไม่มีห้องส้วมว่างให้ใช้บนชั้น {1}
+angryReason_noWashbasin,Customer #{0} left because there were no available washbasins to use on floor {1},ลูกค้า #{0} เดินออกจากร้านเพราะไม่มีอ่างล้างมือว่างให้ใช้บนชั้น {1}
+guestsPerDayInfoPopup_reasonPrestige,+{0}{1} from prestige ({2}{3}),+{0}{1} จากชื่อเสียง ({2}{3})
+chooseGameDifficultyPopup_title,Choose difficulty,เลือกระดับความยาก
+chooseGameDifficultyPopup_selectButton,Select,เลือก
+chooseGameDifficultyPopup_relaxedTitle,Relaxed,ผ่อนคลาย
+chooseGameDifficultyPopup_normalTitle,Normal,ปกติ
+chooseGameDifficultyPopup_hardTitle,Hard,ยาก
+chooseGameDifficultyPopup_relaxedDescription,It is easier to make money and disasters are much less dangerous.,หาเงินได้ง่ายขึ้น และภัยพิบัติต่าง ๆ มีอันตรายน้อยลงมาก
+chooseGameDifficultyPopup_normalDescription,Everything is balanced. This is how the game was meant to be played.,ทุกอย่างสมดุล นี่คือรูปแบบการเล่นที่เกมตั้งใจออกแบบมา
+chooseGameDifficultyPopup_hardDescription,Managing the tavern and keeping it profitable will be a real challenge.,การบริหารโรงเตี๊ยมและทำกำไรให้ได้จะเป็นความท้าทายอย่างแท้จริง
+chooseGameDifficultyPopup_changeLater,You can change the game difficulty in the settings later.,คุณสามารถเปลี่ยนระดับความยากของเกมได้ในหน้าตั้งค่าภายหลัง
+chooseGameDifficultyPopup_currentlySelected,(currently selected),(เลือกอยู่ในขณะนี้)
+settingsPopup_tab_video,Video,วิดีโอ
+settingsPopup_tab_audio,Audio,เสียง
+settingsPopup_gameDifficulty,Game difficulty,ระดับความยากของเกม
+settingsPopup_changeGameDifficulty,Change,เปลี่ยน
+settingsPopup_edgeScrolling,Edge scrolling,เลื่อนจอด้วยขอบหน้าจอ
+notification_highFireRisk,There is a high risk of fire on floor {0},มีความเสี่ยงไฟไหม้สูงบนชั้น {0}
+notification_moderateFireRisk,There is a moderate risk of fire on floor {0},มีความเสี่ยงไฟไหม้ปานกลางบนชั้น {0}
+techTree_extraPlants,More plants,ต้นไม้เพิ่มเติม
+techTree_kitchenPropsLevel2,Kitchen items level 2,อุปกรณ์ครัวเลเวล 2
+techTree_kitchenPropsLevel3,Kitchen items level 3,อุปกรณ์ครัวเลเวล 3
+techTree_fireExtinguishersLevel2,Fire extinguishers level 2,ถังดับเพลิงเลเวล 2
+techTree_fireExtinguishersLevel3,Fire extinguishers level 3,ถังดับเพลิงเลเวล 3
+techTree_upholstery,Upholstery,เบาะบุเฟอร์นิเจอร์
+techTree_toilets,Toilets,ห้องน้ำ
+messagePopup_questItemLocked,This item is locked. Finish more quests to unlock it.,ไอเทมนี้ถูกล็อกอยู่ ทำเควสเพิ่มเติมเพื่อปลดล็อก
+summaryPopup_reason_itemsSold,Items sold,ขายไอเทม
+summaryPopup_reason_rewards,Rewards,รางวัล
+tooltip_prestige,Higher prestige make more customers come to your tavern. You get most prestige from buying decorations.,ชื่อเสียงที่สูงขึ้นจะทำให้มีลูกค้าเข้ามาในโรงเตี๊ยมของคุณมากขึ้น คุณจะได้รับชื่อเสียงส่วนใหญ่จากการซื้อของตกแต่ง
+summaryPopup_totalPositive,Total positive: <color={0}>+{1}{2}</color>,รายรับรวม: <color={0}>+{1}{2}</color>
+summaryPopup_totalNegative,Total negative: <color={0}>{1}{2}</color>,รายจ่ายรวม: <color={0}>{1}{2}</color>
+welcomePopup_resetDrinkPrice,Hey there! In the newest update of Tavern Master the economy has been rebalanced and because of that it is best to check your drink prices and staff salaries. Good luck!,สวัสดี! ในอัปเดตล่าสุดของ Tavern Master ระบบเศรษฐกิจได้รับการปรับสมดุลใหม่ ดังนั้นควรตรวจสอบราคาเครื่องดื่มและเงินเดือนพนักงานของคุณให้ดี ขอให้โชคดี!
+prop_decoration_kitchen_pans,Pans,กระทะ
+prop_decoration_kitchen_herbs,Herbs,สมุนไพร
+prop_decoration_kitchen_meat,Meat rack,ราวแขวนเนื้อ
+prop_decoration_kitchen_garlic,Onion and garlic,หัวหอมและกระเทียม
+prop_decoration_kitchen_apronRack,Apron rack,ราวแขวนผ้ากันเปื้อน
+techTree_kitchenDecorations,Kitchen decorations,ของตกแต่งครัว
+summaryPopup_reason_building,Building,การก่อสร้าง
+questTask_done,Done,เสร็จสิ้น
+quest_task_ClickLight,Click on any light to find out about the fire risk,คลิกที่โคมไฟใดก็ได้เพื่อดูความเสี่ยงไฟไหม้
+summaryPopup_reason_musicians,Musicians,นักดนตรี
+ingredientInfoRenderer_total,(total: {0}),(ทั้งหมด: {0})
+focusOnFireButton,Focus on fire,โฟกัสที่จุดไฟไหม้
+fire_resumeGameButton,Resume game,เล่นเกมต่อ
+notification_burntProps,There is some burnt furniture in your tavern,มีเฟอร์นิเจอร์ที่ถูกไฟไหม้ในโรงเตี๊ยมของคุณ
+notification_zeroGuests,There are 0{0} (guests per day) in your tavern,มีแขก 0{0} (แขกต่อวัน) ในโรงเตี๊ยมของคุณ
+notification_noToilets,There is no toilet which customers can use,ไม่มีห้องน้ำที่ลูกค้าสามารถใช้งานได้
+toiletExplainPopup_title,Toilet instructions,คำแนะนำห้องน้ำ
+toiletExplainPopup_description,"Toilets are a necessity that every good tavern needs to have. Customers will occasionally use them, and if waiting is too long because there are not enough toilets, they will leave angry.",ห้องน้ำเป็นสิ่งจำเป็นที่โรงเตี๊ยมที่ดีทุกแห่งต้องมี ลูกค้าจะใช้งานเป็นครั้งคราว และหากต้องรอนานเกินไปเพราะมีห้องน้ำไม่พอ พวกเขาจะเดินออกจากร้านด้วยความโกรธ
+toiletExplainPopup_step1,Step 1: Build an empty room,ขั้นตอนที่ 1: สร้างห้องเปล่า
+toiletExplainPopup_step2,Step 2: Buy toilet cabins,ขั้นตอนที่ 2: ซื้อห้องส้วม
+toiletExplainPopup_step3,Step 3: Buy washbasins,ขั้นตอนที่ 3: ซื้ออ่างล้างมือ
+toiletExplainPopup_step4,Step 4: Let customers use the toilet,ขั้นตอนที่ 4: ให้ลูกค้าใช้งานห้องน้ำ
+notification_notEnoughCauldrons,Chefs on floor {0} don't have enough cauldrons to prepare all the soups from the menu,พ่อครัวบนชั้น {0} มีหม้อต้มไม่พอสำหรับทำซุปทั้งหมดในเมนู
+exit_warningMessage,"If you quit now the ongoing day will be skipped to the end. If you don't want to lose any profit, it is best to quit when day ends. Do you want to quit now anyway?",หากคุณออกตอนนี้ วันที่กำลังดำเนินอยู่จะถูกข้ามไปจนจบวัน หากคุณไม่อยากเสียกำไร ควรออกเมื่อจบวันจะดีที่สุด คุณยังต้องการออกตอนนี้หรือไม่?
+musiciansPopup_rotateTowardsCrowd,Rotate the band towards crowd,หันวงดนตรีเข้าหาผู้ชม
+musiciansPopup_rotateWithPodium,Rotate the band same as podium rotation,หมุนวงดนตรีตามทิศทางของแท่น
+messagePopup_noAccessibleBarAndKitchenCounter,"This waitress cannot be hired because there isn't a kitchen counter, a bar or a custom place she can go to. It's possible that path is blocked or you don't have free spots.",ไม่สามารถจ้างพนักงานเสิร์ฟคนนี้ได้เพราะไม่มีเคาน์เตอร์ครัว บาร์ หรือจุดประจำการที่เธอสามารถเดินไปได้ อาจเป็นไปได้ว่าทางเดินถูกปิดกั้นหรือคุณไม่มีจุดว่าง
+messagePopup_noAccessibleBar,This bartender cannot be hired because there isn't a bar he can go to. It's possible that path is blocked or you don't have free spots.,ไม่สามารถจ้างบาร์เทนเดอร์คนนี้ได้เพราะไม่มีบาร์ที่เขาสามารถเดินไปได้ อาจเป็นไปได้ว่าทางเดินถูกปิดกั้นหรือคุณไม่มีจุดว่าง
+messagePopup_noAccessibleKitchenCounter,This chef cannot be hired because there isn't a kitchen counter he can go to. It's possible that path is blocked or you don't have free spots.,ไม่สามารถจ้างพ่อครัวคนนี้ได้เพราะไม่มีเคาน์เตอร์ครัวที่เขาสามารถเดินไปได้ อาจเป็นไปได้ว่าทางเดินถูกปิดกั้นหรือคุณไม่มีจุดว่าง
+messagePopup_noAccessibleResearchDesk,This researcher cannot be hired because there isn't a research desk he can go to. It's possible that path is blocked or you don't have free spots.,ไม่สามารถจ้างนักวิจัยคนนี้ได้เพราะไม่มีโต๊ะวิจัยที่เขาสามารถเดินไปได้ อาจเป็นไปได้ว่าทางเดินถูกปิดกั้นหรือคุณไม่มีจุดว่าง
+waxAndOilFloorRenderer_noRisk,No risk of fire,ไม่มีความเสี่ยงไฟไหม้
+settingsPopup_crowdVolume,Crowd volume,ระดับเสียงฝูงชน
+topHeader_floorLabel2,floor {0},ชั้น {0}
+messagePopup_roomHasIllegalProps,"Rooms with a bed should only contain wardrobes, decorations and lights. This room either has stairs, a bar, research desk or something that belongs in the kitchen.",ห้องพักที่มีเตียงควรมีเพียงตู้เสื้อผ้า ของตกแต่ง และโคมไฟเท่านั้น ห้องนี้มีบันได บาร์ โต๊ะวิจัย หรือสิ่งของที่ควรอยู่ในครัว
+prop_game_punching,Punching bag,กระสอบทราย
+prop_game_axeThrowing,Axe target,เป้าปาขวาน
+prop_game_hammer,Hammer game,เกมทุบค้อน
+prop_game_basketball,Basketball,บาสเกตบอล
+prop_game_archery,Archery target,เป้ายิงธนู
+prop_game_counter,Games counter,เคาน์เตอร์เกม
+propShop_tabGames,Games,เกม
+summaryPopup_reason_games,Games ({0}),เกม ({0})
+notification_noGameCounter,You are missing a games counter,คุณยังไม่มีเคาน์เตอร์เกม
+notification_noGameCounterWarningMessage,In order to earn money from games you need a games counter where customers can rent equipment needed to play games.,เพื่อที่จะสร้างรายได้จากเกม คุณต้องมีเคาน์เตอร์เกมให้ลูกค้าเช่าอุปกรณ์สำหรับเล่นเกม
+techTree_games,Games,เกม
+techTree_game_hammer,Hammer game,เกมทุบค้อน
+techTree_game_basketball,Basketball game,เกมบาสเกตบอล
+techTree_game_archery,Archery game,เกมยิงธนู
+messagePopup_infoPopup_gameCounter,Customers use game counter to rent equipment used to play various games. Every game counter has a worker that will serve customers.,ลูกค้าใช้เคาน์เตอร์เกมเพื่อเช่าอุปกรณ์สำหรับเล่นเกมต่าง ๆ เคาน์เตอร์เกมทุกอันจะมีพนักงานคอยให้บริการลูกค้า
+gamesPopup_titled,Games,เกม
+gameRenderer_chance,"<color={0}><size=50%>Chance to play:</size></color>
+{1}%","<color={0}><size=50%>โอกาสที่จะเล่น:</size></color>
+{1}%"
+gameRenderer_locked,Locked,ล็อกอยู่
+gamesPopup_chanceToPlayAnyGame,Chance to play any game: {0}%,โอกาสที่จะเล่นเกมใดก็ได้: {0}%
+gamesPopup_notOwned,You haven't bought this item. Go to shop to buy it,คุณยังไม่ได้ซื้อไอเทมนี้ ไปที่ร้านค้าเพื่อซื้อ
+summaryPopup_reason_hotel,Hotel ({0}),โรงแรม ({0})
+structureShop_tabLowerWall,Lower wall,ผนังส่วนล่าง
+structureShop_tabUpperWall,Upper wall,ผนังส่วนบน
+propShop_light_chandelier,Chandelier,โคมไฟระย้า
+messagePopup_overlapsWithChandelier,This item overlaps with a chandelier.,ไอเทมนี้ซ้อนทับกับโคมไฟระย้า
+propShop_decoration_wallBigFlag,Country flag,ธงชาติ
+questReward_wallPaint,Wall texture,ลวดลายผนัง
+tooltip_thirdPerson,Click to enter third person mode where you can control a customer using your keyboard. When you're finished click the escape key to exit.,คลิกเพื่อเข้าสู่โหมดมุมมองบุคคลที่สาม ซึ่งคุณสามารถควบคุมลูกค้าได้ด้วยคีย์บอร์ด เมื่อเสร็จแล้วให้กดปุ่ม Esc เพื่อออก
+messagePopup_thirdPersonWhileFireIsOngoing,You can't enter third person mode while fire is in progress.,คุณไม่สามารถเข้าสู่โหมดมุมมองบุคคลที่สามได้ในขณะที่กำลังเกิดไฟไหม้
+messagePopup_thirdPersonWhileTutorial,You can't enter third person mode while tutorial is in progress.,คุณไม่สามารถเข้าสู่โหมดมุมมองบุคคลที่สามได้ในขณะที่กำลังอยู่ในโหมดสอนเล่น
+messagePopup_thirdPersonSeatTaken,This seat is already taken. Try to find another one.,ที่นั่งนี้มีคนนั่งอยู่แล้ว ลองหาที่นั่งอื่นดูนะ
+thirdPerson_move,Move,เดิน
+thirdPerson_camera,Change camera,เปลี่ยนมุมกล้อง
+thirdPerson_hide,Hide controls,ซ่อนปุ่มควบคุม
+thirdPerson_randomizeBody,Change looks,เปลี่ยนรูปลักษณ์
+thirdPerson_exit,Exit,ออก
+thirdPerson_useStairs,Use stairs,ใช้บันได
+thirdPerson_sitDown,Sit down,นั่งลง
+thirdPerson_standUp,Stand up,ลุกขึ้น
+thirdPerson_exitAreYouSure,Are you sure that you want to return to normal mode?,คุณแน่ใจหรือไม่ว่าต้องการกลับสู่โหมดปกติ?
+mainMenu_newUpdate,New Update,อัปเดตใหม่
+mainMenu_newUpdateDescription_1_3,"  - Third person mode
+  - Chandeliers
+  - New wall paints
+  + more!","  - โหมดมุมมองบุคคลที่สาม
+  - โคมไฟระย้า
+  - สีทาผนังใหม่
+  + และอื่นๆ อีกมากมาย!"
+messagePopup_infoPopup_lampLight,Lamp will work even in the rain.,โคมไฟจะใช้งานได้แม้ในตอนฝนตก
+guestsPerDayInfoPopup_reasonWeather,{0}% from weather,{0}% จากสภาพอากาศ
+guestsPerDayInfoPopup_reasonSeatsOutside,+{0}{1} from seats outside,+{0}{1} จากที่นั่งด้านนอก
+tooltip_weather,"<size=150%>{0}</size>
+{1}% guests per day","<size=150%>{0}</size>
+แขกต่อวัน {1}%"
+weather_clear,Clear sky,ฟ้าโปร่ง
+weather_partlyCloudy,Partly cloudy,มีเมฆบางส่วน
+weather_cloudy,Cloudy,มีเมฆมาก
+weather_lightRain,Light rain,ฝนตกปรอยๆ
+weather_heavyRain,Heavy rain,ฝนตกหนัก
+weather_thunderstorm,Thunderstorm,พายุฝนฟ้าคะนอง
+structureShop_tabSpecial,Special,พิเศษ
+prop_special_takeOutCounter,Takeout counter,เคาน์เตอร์สั่งกลับบ้าน
+messagePopup_takeOutCounterNotNearWall,This item has to be placed on the wall with a counter,ไอเทมนี้ต้องวางบนผนังที่มีเคาน์เตอร์
+prop_kitchen_packingTable,Packing table,โต๊ะแพ็คอาหาร
+angryReason_deletedTakeOut,Customer #{0} left because the takeout counter got deleted,ลูกค้า #{0} เดินออกไปแล้วเพราะเคาน์เตอร์สั่งกลับบ้านถูกลบ
+takeOutPopup_title,Takeout,สั่งกลับบ้าน
+takeOutPopup_sameAsRegularToggle,Same food as for regular menu,ใช้เมนูอาหารเดียวกับเมนูหลัก
+takeOutPopup_cantChange,You have set your takeout menu to be the same as the regular menu.,คุณได้ตั้งค่าเมนูสั่งกลับบ้านให้เหมือนกับเมนูหลักไว้
+takeOutPopup_discount,Discount:,ส่วนลด:
+takeOutPopup_infoLabel,Higher discount attracts more customers to order takeout,ส่วนลดยิ่งสูง ยิ่งดึงดูดลูกค้าให้สั่งกลับบ้านมากขึ้น
+prop_decoration_smallRoof,Small roof,หลังคาขนาดเล็ก
+summaryPopup_reason_takeOut,Takeout ({0}),สั่งกลับบ้าน ({0})
+takeOutExplainPopup_titled,Takeout,สั่งกลับบ้าน
+takeOutExplainPopup_description,Build a takeout counter so you can attract new customers who don't want to sit inside but just order and take their food with them.,สร้างเคาน์เตอร์สั่งกลับบ้านเพื่อดึงดูดลูกค้ากลุ่มใหม่ที่ไม่อยากนั่งทานในร้าน แต่อยากสั่งแล้วนำอาหารกลับไปทานที่อื่น
+takeOutExplainPopup_step1,Step 1: Build a wall with a counter,ขั้นตอนที่ 1: สร้างผนังแบบมีเคาน์เตอร์
+takeOutExplainPopup_step2,Step 2: Buy the takeout counter,ขั้นตอนที่ 2: ซื้อเคาน์เตอร์สั่งกลับบ้าน
+takeOutExplainPopup_step3,Step 3: Buy a packing table,ขั้นตอนที่ 3: ซื้อโต๊ะแพ็คอาหาร
+takeOutExplainPopup_step4,Step 4: Wait for customers to start ordering food,ขั้นตอนที่ 4: รอลูกค้าเริ่มเข้ามาสั่งอาหาร
+infoPopup_packingTable,Packing table is used by staff to pack food for customers who order takeout.,โต๊ะแพ็คอาหารใช้สำหรับให้พนักงานแพ็คอาหารให้ลูกค้าที่สั่งกลับบ้าน
+infoPopup_takeOutCounter,Takeout counter enables customers to purchase food which they can take elsewhere to eat.,เคาน์เตอร์สั่งกลับบ้านช่วยให้ลูกค้าสามารถซื้ออาหารเพื่อนำไปทานที่อื่นได้
+techTree_takeOut,Takeout,สั่งกลับบ้าน
+notification_noPackingTable,You are missing a packing table in the kitchen,คุณยังไม่มีโต๊ะแพ็คอาหารในห้องครัว
+areYouSurePopup_fixBurntProps,Some of the furniture burnt in the fire! Do you want to sell it all and buy new for {0}{1}?,เฟอร์นิเจอร์บางส่วนถูกไฟไหม้เสียหาย! คุณต้องการขายทั้งหมดแล้วซื้อใหม่ในราคา {0}{1} หรือไม่?
+messagePopup_takeOutCounterOverlapping,Takeout counter can't be placed here because it overlaps with another takeout counter.,ไม่สามารถวางเคาน์เตอร์สั่งกลับบ้านตรงนี้ได้ เพราะซ้อนทับกับเคาน์เตอร์สั่งกลับบ้านอื่น
+staffInfoPopup_responsibilityTakeOut,Takeout,สั่งกลับบ้าน
+prop_decoration_hatAndBroom,Hat and broom,หมวกและไม้กวาด
+prop_decoration_skeleton,Skeleton,โครงกระดูก
+prop_decoration_pumpkinLantern,Pumpkin lantern,โคมไฟฟักทอง
+techTree_winterTavern,Winter tavern,โรงเตี๊ยมฤดูหนาว
+winterExplainPopup_title,Winter tavern,โรงเตี๊ยมฤดูหนาว
+chooseTavernTypePopup_title,Choose,เลือก
+chooseTavernTypePopup_normal,Normal,ปกติ
+chooseTavernTypePopup_winter,Winter<sprite index=25>,ฤดูหนาว<sprite index=25>
+chooseTavernTypePopup_newGame,Choose which tavern you want to start a new game with,เลือกโรงเตี๊ยมที่คุณต้องการใช้เริ่มเกมใหม่
+chooseTavernTypePopup_continue,Choose which tavern you want to continue the game with,เลือกโรงเตี๊ยมที่คุณต้องการเล่นต่อ
+winterExplainPopup_description,Start a new tavern in a new setting with new rules! On the main menu click 'New Game' and choose the winter game mode.,เริ่มต้นโรงเตี๊ยมแห่งใหม่ในบรรยากาศและกฎกติกาแบบใหม่! ที่เมนูหลัก คลิก 'เกมใหม่' แล้วเลือกโหมดฤดูหนาว
+winterExplainPopup_step1,New winter map,แผนที่ฤดูหนาวใหม่
+winterExplainPopup_step2,Heating is required,จำเป็นต้องมีเครื่องทำความร้อน
+winterExplainPopup_step3,New bar with hot drinks,บาร์แบบใหม่พร้อมเครื่องดื่มร้อน
+winterExplainPopup_step4,Starting a new game is required,ต้องเริ่มเล่นเกมใหม่
+notification_noHeating,You have no heating,คุณไม่มีเครื่องทำความร้อน
+messagePopup_noHeating,"You have no heating. Go to shop, choose 'Special' tab and buy a brazier or buy a fireplace from decorations.",คุณไม่มีเครื่องทำความร้อน ไปที่ร้านค้า เลือกแท็บ 'พิเศษ' แล้วซื้อกระถางไฟ หรือซื้อเตาผิงจากหมวดของตกแต่ง
+prop_special_brazier,Brazier,กระถางไฟ
+weather_snow,Snow,หิมะตก
+messagePopup_cantBuildHighWallsInGarden,"You can't build high walls in the garden, only fences and short walls",คุณไม่สามารถสร้างกำแพงสูงในสวนได้ สร้างได้เฉพาะรั้วและกำแพงเตี้ยเท่านั้น
+techTree_garden,Outside garden,สวนด้านนอก
+techTree_basement,Basement,ชั้นใต้ดิน
+messagePopup_cantDeleteWallsInBasement,Outer walls in the basement can't be destroyed.,ไม่สามารถทุบผนังด้านนอกของชั้นใต้ดินได้
+messagePopup_noDoorsOrWindowsOnOuterBasement,Outer walls in basement can't be changed into doors or windows.,ไม่สามารถเปลี่ยนผนังด้านนอกของชั้นใต้ดินเป็นประตูหรือหน้าต่างได้
+messagePopup_deleteFloorInBasement,Floor tiles can't be deleted in basement.,ไม่สามารถลบกระเบื้องพื้นในชั้นใต้ดินได้
+propShop_tabGarden,Garden,สวน
+prop_garden_flowers,Flowers,ดอกไม้
+prop_garden_mushrooms,Mushrooms,เห็ด
+prop_garden_reeds,Reeds,ต้นกก
+prop_garden_grass,Grass,กอหญ้า
+prop_garden_stump,Stump,ตอไม้
+prop_garden_branch,Branch,กิ่งไม้
+prop_garden_tree,Tree,ต้นไม้
+messagePopup_gardenPropsInGarden,Garden decorations can only be put in outside garden.,ของตกแต่งสวนสามารถวางได้เฉพาะในสวนด้านนอกเท่านั้น
+messagePopup_gardenChandeliers,Chandeliers can't be used in the garden.,ไม่สามารถใช้โคมไฟระย้าในสวนได้
+messagePopup_floorInGarden,Floor tiles can't be changed in the garden.,ไม่สามารถเปลี่ยนกระเบื้องพื้นในสวนได้
+newGamePromo,NEW GAME!,เกมใหม่!
+prop_special_brewery,Brewery,โรงต้มเบียร์
+messagePopup_infoPopup_brewery,Brewery is used to produce drinks for a cheaper price than refilling.,โรงต้มเบียร์ใช้สำหรับผลิตเครื่องดื่มในราคาที่ถูกกว่าการซื้อเติม
+techTree_brewery,Brewery,โรงต้มเบียร์
+messagePopup_noAccessibleBrewery,This brewery worker cannot be hired because there isn't a brewery he can go to. It's possible that path is blocked or you don't have free spots.,ไม่สามารถจ้างคนต้มเบียร์คนนี้ได้เนื่องจากไม่มีโรงต้มเบียร์ที่เขาสามารถเดินไปได้ อาจเป็นเพราะทางเดินถูกขวางหรือไม่มีตำแหน่งว่าง
+staffPopup_breweryWorker,Brewery worker,คนต้มเบียร์
+indicatorsPopup_iconBreweryWorker,Brewery worker icon,ไอคอนคนต้มเบียร์
+breweryPopup_title,Brewery,โรงต้มเบียร์
+breweryPopup_refillSpeedAndCapacity,"Speed: {0} barrels per day
+Capacity: {1} barrels","ความเร็ว: {0} ถังต่อวัน
+ความจุ: {1} ถัง"
+breweryPopup_level,Level {0},ระดับ {0}
+propUpgradePopup_brewery,"Speed: {0} barrels per day
+Capacity: {1} barrels","ความเร็ว: {0} ถังต่อวัน
+ความจุ: {1} ถัง"
+messagePopup_breweryDrinkLocked,This drink is not yet unlocked. Progress further in the research tree to unlock it.,เครื่องดื่มนี้ยังไม่ปลดล็อก วิจัยเพิ่มเติมในผังวิจัยเพื่อปลดล็อก
+areYouSurePopup_breweryHasDrink,"If you change the drink produced in this brewery, the drink collected previously will be lost. Do you want to change anyway?",หากคุณเปลี่ยนเครื่องดื่มที่ผลิตในโรงต้มเบียร์นี้ เครื่องดื่มที่ผลิตสะสมไว้ก่อนหน้าจะสูญหายทั้งหมด ต้องการเปลี่ยนหรือไม่?
+drinkRefillPopup_unlimited,Water is unlimited so no need to refill,น้ำมีไม่จำกัด จึงไม่จำเป็นต้องเติม
+staffInfoPopup_stat_breweryBonus,<color=#BOBOBO>Brewery bonus:</color> {0}%,<color=#BOBOBO>โบนัสการต้มเบียร์:</color> {0}%
+propItemRenderer_description_brewery,"Speed:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+barrels/day","ความเร็ว:
+<color={0}>{1}</color>/<color={2}>{3}</color>/<color={4}>{5}</color>
+ถัง/วัน"
+drinkRefillPopup_refill,Refill {0},เติม {0}
+notification_breweryWorkers,Some breweries don't have workers,โรงต้มเบียร์บางแห่งยังไม่มีคนต้มเบียร์
+buyBarrelPopup_title,Buy barrel,ซื้อถัง
+prop_barrel_milk,Milk barrel,ถังนม
+prop_barrel_cider,Cider barrel,ถังไซเดอร์
+prop_barrel_mead,Mead barrel,ถังมี้ด
+prop_barrel_blackTea,Black tea barrel,ถังชาดำ
+prop_barrel_warmMilk,Warm milk barrel,ถังนมอุ่น
+prop_barrel_coffee,Coffee barrel,ถังกาแฟ
+prop_barrel_water,Water barrel,ถังน้ำ
+drinkRefillPopup_remove,Remove,นำออก
+areYouSurePopup_deleteBarrel,Are you sure you want to remove this barrel? You will lose all the drink inside the barrel.,คุณแน่ใจหรือไม่ว่าต้องการนำถังนี้ออก? เครื่องดื่มทั้งหมดในถังจะสูญหาย
+kitchenMenuPopup_regularFood,Regular food,อาหารทั่วไป
+kitchenMenuPopup_eventFood,Event food,อาหารงานเลี้ยง
+kitchenMenuPopup_drinks,Drinks,เครื่องดื่ม
+messagePopup_supplyStorageInfo,"Supply storage is used to automatically refill all the kitchen crates on the same floor during the night. If there is no supply storage on a floor, you have to refill everything manually.",คลังเสบียงใช้สำหรับเติมลังวัตถุดิบในครัวทั้งหมดบนชั้นเดียวกันโดยอัตโนมัติในช่วงกลางคืน หากชั้นนั้นไม่มีคลังเสบียง คุณจะต้องเติมทุกอย่างด้วยตัวเอง
+techTree_refillBarrels,Supply storage,คลังเสบียง
+messagePopup_tutorial_haveToBuyBeer,You should buy a beer barrel.,คุณควรซื้อถังเบียร์
+messagePopup_tutorial_disableRemoveBarrel,You can remove barrels only after the tutorial is finished.,คุณจะสามารถนำถังออกได้หลังจากจบช่วงสอนเล่นเท่านั้น
+summaryPopup_tab_drinks,Drinks,เครื่องดื่ม
+summaryPopup_drinks_sold,Sold,ขายได้
+summaryPopup_drinks_totalEarned,Earned,รายได้
+generic_drinkName,Drink name,ชื่อเครื่องดื่ม
+kitchenMenuPopup_header_brewery,Brewery,โรงต้มเบียร์
+kitchenMenuPopup_header_refill,Refill,เติม
+kitchenMenuPopup_header_sellPrice,Sell price,ราคาขาย
+alertPopup_storageMultipleObjects,Are you sure that you want to storage {0} items at once?,คุณแน่ใจหรือไม่ว่าต้องการเก็บไอเทม {0} ชิ้นเข้าคลังพร้อมกัน?
+storageAllButton_label,All to storage,เก็บทั้งหมดเข้าคลัง
+messagePopup_cannotStorageBecauseItsInUse,You can't move this item to storage because it's currently being used by a chef.,ไม่สามารถเก็บไอเทมนี้เข้าคลังได้เพราะพ่อครัวกำลังใช้งานอยู่
+messagePopup_cannotStorageProp,You can't move this item to storage because some employees are stationed at it. Move employees to other locations or fire everyone using this item.,ไม่สามารถเก็บไอเทมนี้เข้าคลังได้เพราะมีพนักงานประจำอยู่ ให้ย้ายพนักงานไปจุดอื่นหรือไล่คนที่ใช้อุปกรณ์นี้ออกก่อน
+breweryPopup_drinkHeader,Drink,เครื่องดื่ม
+breweryPopup_pricePerBarrel,<sprite=0> per barrel,<sprite=0> ต่อถัง
+chooseTavernTypePopup_pirate,Pirate<sprite index=26>,โจรสลัด<sprite index=26>
+messagePopup_tableNotClean,"This table is not cleaned yet, there are still some dirty dishes waiting to be taken away",โต๊ะนี้ยังไม่ได้ทำความสะอาด ยังมีจานสกปรกรอเก็บอยู่
+messagePopup_notEnoughSeatsAtTable,There are not enough seats at this table for everyone,โต๊ะนี้มีที่นั่งไม่พอสำหรับทุกคน
+messagePopup_groupAlreadyAssignedToTable,Some other group was already assigned for this table,มีกลุ่มอื่นจองโต๊ะนี้ไว้แล้ว
+messagePopup_tableCantBeReached,This table can't be reached. Path is blocked somewhere,ไม่สามารถเดินไปที่โต๊ะนี้ได้ ทางเดินถูกขวางอยู่
+pickTableTooltip,Pick a table for the group of {0}{1},เลือกโต๊ะให้แขกกลุ่ม {0}{1}
+cancelTablePickingButton,Cancel,ยกเลิก
+prop_pirate_bottleShelf,Bottle shelf,ชั้นวางขวด
+prop_pirate_bottleRefillBarrel,Bottle refill barrel,ถังเติมขวด
+bottleShelfRefillPopup_title,Bottle shelf,ชั้นวางขวด
+bottleShelfRefillPopup_changeButton,Change,เปลี่ยน
+bottleShelfRefillPopup_drinkStored,Drink stored: <color=#FFFFFF>{0}</color>,เครื่องดื่มที่เก็บไว้: <color=#FFFFFF>{0}</color>
+bottleShelfRefillPopup_bottlesQuantity,{0}/{1} bottles,{0}/{1} ขวด
+bottleShelfRefillPopup_buy1Bottle,Buy 1 bottle,ซื้อ 1 ขวด
+bottleShelfRefillPopup_buyXBottles,Buy {0} bottles,ซื้อ {0} ขวด
+bottleShelfRefillPopup_buyMaxBottles,Buy max bottles,ซื้อเต็มชั้น
+changeBottlePopup_title,Change bottle,เปลี่ยนขวด
+changeBottlePopup_select,Select,เลือก
+changeBottlePopup_selected,Selected,เลือกแล้ว
+bottleShelfProp_tooltip,"<color=#FFFFFF>{0}</color>
+{1}/{2} <color=#B0B0B0>bottles
+
+Right click to refill for {3}{4}</color>","<color=#FFFFFF>{0}</color>
+{1}/{2} <color=#B0B0B0>ขวด
+
+คลิกขวาเพื่อเติมในราคา {3}{4}</color>"
+notification_bottleShelfEmpty,A bottle shelf is empty on floor {0},ชั้นวางขวดว่างเปล่าที่ชั้น {0}
+areYouSurePopup_bottleChange,"If you change the type of drink displayed on the bottle shelf, all {0} bottles currently displayed will be wasted. Continue?",หากคุณเปลี่ยนประเภทเครื่องดื่มที่วางบนชั้นวางขวด เครื่องดื่มทั้งหมด {0} ขวดที่วางอยู่ตอนนี้จะเสียเปล่า ดำเนินการต่อหรือไม่?
+guestsPerDayInfoPopup_reasonBottleShelves,+{0}{1} from bottle shelves,+{0}{1} จากชั้นวางขวด
+messagePopup_cantSellPropBecauseItsBeingUsed,This prop can't be sold or stored because someone is currently using it.,ไม่สามารถขายหรือเก็บของชิ้นนี้เข้าคลังได้เพราะมีคนกำลังใช้งานอยู่
+messagePopup_cantChangePropBecauseItsBeingUsed,This prop can't be changed because someone is currently using it.,ไม่สามารถเปลี่ยนของชิ้นนี้ได้เพราะมีคนกำลังใช้งานอยู่
+messagePopup_cantMovePropBecauseItsBeingUsed,This prop can't be moved because someone is currently using it.,ไม่สามารถย้ายของชิ้นนี้ได้เพราะมีคนกำลังใช้งานอยู่
+angryReason_tooManyPiratesNearby,Royal Navy sailor #{0} left because there were more pirates than their own nearby,ทหารเรือหลวง #{0} เดินออกไปแล้วเพราะมีโจรสลัดอยู่ใกล้ๆ มากกว่าพวกเดียวกัน
+angryReason_tooManyNavyNearby,Pirate #{0} left because there were more Royal Navy sailors than their own nearby,โจรสลัด #{0} เดินออกไปแล้วเพราะมีทหารเรือหลวงอยู่ใกล้ๆ มากกว่าพวกเดียวกัน
+prop_pirate_roundTable,Round table,โต๊ะกลม
+prop_pirate_table,Pirate table,โต๊ะโจรสลัด
+prop_pirate_longTable,Pirate long table,โต๊ะยาวโจรสลัด
+prop_pirate_barrelSeat,Barrel seat,เก้าอี้ถังไม้
+prop_pirate_crateSeat,Crate seat,เก้าอี้ลังไม้
+prop_pirate_stool,Stool,เก้าอี้สตูล
+prop_pirate_chair,Chair,เก้าอี้
+prop_pirate_bench,Bench,ม้านั่ง
+prop_pirate_crateBench,Crate bench,ม้านั่งลังไม้
+prop_pirate_bar,Pirate bar,บาร์โจรสลัด
+prop_pirate_pirateFlag,Pirate flag,ธงโจรสลัด
+prop_pirate_navyFlag,Royal Navy flag,ธงราชนาวี
+areYouSurePopup_winterTavernNotRecommended,Playing winter tavern is not recommended until you finish the normal game mode. Do you want to play winter mode anyway?,ไม่แนะนำให้เล่นโรงเตี๊ยมฤดูหนาวจนกว่าคุณจะเล่นโหมดปกติจบก่อน ยังต้องการเล่นโหมดฤดูหนาวหรือไม่?
+pirateShipShop_bought,Bought,ซื้อแล้ว
+summaryPopup_reason_shipUpgrades,Ship upgrades,อัปเกรดเรือ
+pirateShip_upgrade_oneCannon,Cannon,ปืนใหญ่
+pirateShip_upgrade_cannons,Cannons,ปืนใหญ่
+pirateShip_upgrade_storage,Storage,ห้องเก็บของ
+pirateShip_upgrade_crates,Crates,ลังสินค้า
+pirateShip_upgrade_sideCannons,Side cannons,ปืนใหญ่กราบเรือ
+pirateShipShop_manageButton,Manage,จัดการ
+pirateShipShop_totalPower,Power: {0}{1},พลังรบ: {0}{1}
+pirateShipShop_crew,Crew: {0}/{1}{2},ลูกเรือ: {0}/{1}{2}
+pirateShipShop_color,Color #{0},สี #{0}
+pirateCrewPopup_title,Crew,ลูกเรือ
+food_pirate_tomatoSoup,Tomato broth,ซุปมะเขือเทศ
+food_pirate_cornSoup,Corn soup,ซุปข้าวโพด
+food_pirate_ramen,Ramen,ราเม็ง
+food_pirate_pumpkinSoup,Pumpkin soup,ซุปฟักทอง
+food_pirate_mushroomSoup,Mushroom broth,ซุปเห็ด
+food_pirate_riceBowl,Rice pudding,พุดดิ้งข้าว
+food_pirate_pie,Apple pie,พายแอปเปิล
+food_pirate_oatMeal,Oat meal,ข้าวโอ๊ตต้ม
+food_pirate_raisinCookies,Raisin cookies,คุกกี้ลูกเกด
+food_pirate_cinnamonRoll,Cinnamon roll,ซินนามอนโรล
+food_pirate_shrimpRice,Shrimp rice,ข้าวหน้ากุ้ง
+food_pirate_steak,Steak,สเต๊ก
+food_pirate_chickenThigh,Chicken thigh,น่องไก่
+food_pirate_chickenWhole,Whole chicken,ไก่อบทั้งตัว
+food_pirate_fish,Fish,ปลาย่าง
+kitchenMenuPopup_pirateFood,Pirate food,อาหารโจรสลัด
+ingredient_wheat,Grain,ธัญพืช
+crateProp_refillOnRightClick,Right click to refill basic ingredients for {0}{1}</color>,คลิกขวาเพื่อเติมวัตถุดิบพื้นฐานในราคา {0}{1}</color>
+messagePopup_pirateFoodLocked,Complete more expeditions to find the recipe,ทำการออกเรือสำรวจให้มากขึ้นเพื่อค้นหาสูตรอาหาร
+hirePiratePopup_title,Recruit a pirate,รับสมัครโจรสลัด
+hirePiratePopup_description,Choose a pirate to recruit,เลือกโจรสลัดที่ต้องการรับสมัคร
+hirePiratePopup_refresh,Refresh {0}{1},รีเฟรช {0}{1}
+hirePiratePopup_recruit,Recruit,รับสมัคร
+areYouSure_pirateDismiss,Are you sure you want to dismiss this pirate?,คุณแน่ใจหรือไม่ว่าต้องการปลดโจรสลัดคนนี้ออก?
+messagePopup_pirateCrewLimitReached,You've reached the maximum crew size and can't recruit more pirates,คุณมีจำนวนลูกเรือครบตามขีดจำกัดแล้ว ไม่สามารถรับสมัครโจรสลัดเพิ่มได้
+pirateCrewPortrait_powerTooltip,Adds +{0}%{1} to the pirate ship,เพิ่ม +{0}%{1} ให้กับเรือโจรสลัด
+pirateCrewPortrait_salaryTooltip,Has a {0}{1} salary per day of an expedition,มีค่าจ้าง {0}{1} ต่อวันในการออกเรือสำรวจ
+pirateCrewPortrait_relicTooltip,Increases the chance to find a treasure ({0}) by {1}% on an expedition,เพิ่มโอกาสพบสมบัติ ({0}) ขึ้น {1}% ในการออกเรือสำรวจ
+pirateCrewPortrait_foodTooltip,Needs to eat at least {0} per day on an expedition,ต้องกินอย่างน้อย {0} ต่อวันในการออกเรือสำรวจ
+pirateCrewPopup_totalLabelTooltip,"Total ship power<sprite index=27> percentage increase from the crew, total salary<sprite index=0> per day on an expedition, chance to find a relic<sprite index=28> on an expedition and total food requirements per every day on an expedition","เปอร์เซ็นต์พลังเรือรวม<sprite index=27> ที่เพิ่มขึ้นจากลูกเรือ, ค่าจ้างรวม<sprite index=0> ต่อวันในการออกเรือสำรวจ, โอกาสพบสมบัติล้ำค่า<sprite index=28> ในการออกเรือสำรวจ และปริมาณอาหารที่ต้องใช้ต่อวันในการออกเรือสำรวจ"
+pirateCrewPopup_totalLabel,Total:,รวม:
+pirateShipShop_powerTooltip,{0}{1} from the ship and upgrades and +{2}% bonus ({3}{4}) from the crew,{0}{1} จากเรือและการอัปเกรด และโบนัส +{2}% ({3}{4}) จากลูกเรือ
+tech_newFoodRecipe,Food recipe,สูตรอาหาร
+tech_pirateTableStyle,New table style,สไตล์โต๊ะแบบใหม่
+messagePopup_pirateItemLocked,This item is locked. Complete more expeditions to unlock it.,ไอเทมนี้ถูกล็อกอยู่ ทำการออกเรือสำรวจให้มากขึ้นเพื่อปลดล็อก
+tech_pirateShipUpgrade,Bigger ship,เรือขนาดใหญ่ขึ้น
+messagePopup_pirateShipUpgradeLocked,This upgrade is currently locked. Complete more expeditions to unlock it!,การอัปเกรดนี้ถูกล็อกอยู่ ทำการออกเรือสำรวจให้มากขึ้นเพื่อปลดล็อก!
+prop_special_reception,Reception,เคาน์เตอร์ต้อนรับ
+expeditionPopup_title,Expedition,การออกเรือสำรวจ
+expeditionPopup_startPreparationButton,Start preparation,เริ่มเตรียมเสบียง
+expeditionPopup_foodNeeded,Food needed:,อาหารที่ต้องการ:
+expeditionPopup_abortButton,Abort,ยกเลิก
+expeditionPopup_completeButton,Complete,สำเร็จ
+expeditionPopup_preparationIsInProgress,Preparation is in progress,กำลังเตรียมการอยู่
+expeditionPopup_activeCrewLabel,Active crew: {0},ลูกเรือที่ออกเดินทาง: {0}
+expeditionPopup_startExpeditionButton,Sail away (<color={0}>{1}</color>),ออกเรือ (<color={0}>{1}</color>)
+expeditionPopup_description_power,Power: {0}<color=#FFFFFF>/{1}</color>,พลังรบ: {0}<color=#FFFFFF>/{1}</color>
+expeditionPopup_description_duration_1day,Duration: <color=#FFFFFF>1 day</color>,ระยะเวลา: <color=#FFFFFF>1 วัน</color>
+expeditionPopup_description_duration_2day,Duration: <color=#FFFFFF>2 days</color>,ระยะเวลา: <color=#FFFFFF>2 วัน</color>
+expeditionPopup_description_duration_3day,Duration: <color=#FFFFFF>3 days</color>,ระยะเวลา: <color=#FFFFFF>3 วัน</color>
+expeditionPopup_description_duration_for1day,(for 1 day),(สำหรับ 1 วัน)
+expeditionPopup_description_duration_for2days,(for 2 days),(สำหรับ 2 วัน)
+expeditionPopup_description_duration_for3days,(for 3 days),(สำหรับ 3 วัน)
+expeditionPopup_description_salary,Salary for crew: <color=#FFFFFF>{0}</color> {1},ค่าจ้างลูกเรือ: <color=#FFFFFF>{0}</color> {1}
+expeditionPopup_description_relic,Chance to find a treasure: <color=#FFFFFF>{0}%</color> {1},โอกาสพบสมบัติ: <color=#FFFFFF>{0}%</color> {1}
+expeditionPopup_description_food,Food: <color=#FFFFFF>{0}</color> {1},อาหาร: <color=#FFFFFF>{0}</color> {1}
+expeditionPopup_anotherExpeditionActive,Another expedition is already active,มีการออกเรือสำรวจอื่นกำลังดำเนินอยู่แล้ว
+messagePopup_cantStartExpeditionWithZeroCrew,Expedition can't be started with <color=red>0</color> active crew members.,ไม่สามารถเริ่มการออกเรือสำรวจได้เมื่อมีลูกเรือที่ออกเดินทาง <color=red>0</color> คน
+messagePopup_cantStartExpeditionPowerTooLow,Expedition can't be started because your pirate ship power is too low. You have <color=white>{0}</color> but you need <color=white>{1}</color>. Upgrade your ship or recruit more crew members to increase the power.,ไม่สามารถเริ่มการออกเรือสำรวจได้เนื่องจากพลังรบของเรือโจรสลัดต่ำเกินไป คุณมี <color=white>{0}</color> แต่ต้องการ <color=white>{1}</color> อัปเกรดเรือหรือรับสมัครลูกเรือเพิ่มเพื่อเพิ่มพลังรบ
+areYouSurePopup_abort,Are you sure you want to abort the preparation for this expedition? All food prepared will be lost.,คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการเตรียมการออกเรือสำรวจนี้? อาหารที่เตรียมไว้ทั้งหมดจะสูญหาย
+summaryPopup_reason_expedition,Expedition,การออกเรือสำรวจ
+messagePopup_cantChangeCrewWhileExpeditionIsActive,The crew can't be changed while an expedition is active,ไม่สามารถเปลี่ยนแปลงลูกเรือได้ในขณะที่กำลังออกเรือสำรวจ
+researchButton_mapTitle,Map,แผนที่
+prop_special_pirateStorage,Expedition cargo,คลังเสบียงออกเรือ
+prop_special_pirateSupplyStorage,Refill storage,คลังเติมเสบียง
+tech_pirateSupplyStorage,Refill storage,คลังเติมเสบียง
+propShop_defaultPirateGroup,Default group:,กลุ่มเริ่มต้น:
+notification_noPirateTables,You don't have any tables for pirates to sit at,คุณยังไม่มีโต๊ะสำหรับให้โจรสลัดนั่ง
+notification_noNavyTables,You don't have any tables for navy sailors to sit at,คุณยังไม่มีโต๊ะสำหรับให้ทหารเรือนั่ง
+notification_noPirateStorage,You don't have an expedition cargo,คุณยังไม่มีคลังเสบียงออกเรือ
+notification_noChefsForExpedition,There are no chefs preparing food for the expedition,ไม่มีพ่อครัวที่กำลังเตรียมอาหารสำหรับการออกเรือสำรวจ
+relicCollectionPopup_title,Treasures,สมบัติ
+relicCollectionPopup_subtitle,"When you collect all {0} treasures, you can sell the collection for <color=#ffffff>{1}{2}</color>",เมื่อคุณสะสมสมบัติครบทั้ง {0} ชิ้น คุณสามารถขายทั้งคอลเลกชันได้ในราคา <color=#ffffff>{1}{2}</color>
+relicCollectionPopup_claimButton,Claim,รับรางวัล
+expeditionFinishedPopup_title,Completed,เสร็จสิ้น
+expeditionFinishedPopup_subtitleTech,You have unlocked:,คุณได้ปลดล็อก:
+expeditionFinishedPopup_subtitleTreasureFound,Your crew also found a treasure!,ลูกเรือของคุณยังพบสมบัติอีกด้วย!
+expeditionFinishedPopup_subtitleTreasureNotFound,"Unfortunately, you crew hasn't found any treasure...",น่าเสียดาย ลูกเรือของคุณไม่พบสมบัติเลย...
+tech_endlessTask,{0}{1},{0}{1}
+prop_pirateDecoration_posters,Posters,โปสเตอร์
+prop_pirateDecoration_anchor,Anchor,สมอเรือ
+prop_pirateDecoration_rope,Rope,เชือก
+prop_pirateDecoration_cannon,Cannon,ปืนใหญ่
+prop_pirateDecoration_shipModel,Ship model,โมเดลเรือ
+prop_pirateDecoration_palmTree,Palm tree,ต้นปาล์ม
+pirateFocus_title,Focus:,หน้าที่หลัก:
+pirateFocus_expeditions,Expeditions,การออกเรือสำรวจ
+pirateFocus_guests,Guests,แขก
+pirateChecklist_task0,Hire {0} waitresses,จ้างพนักงานเสิร์ฟ {0} คน
+pirateChecklist_task1,Hire {0} bartender,จ้างบาร์เทนเดอร์ {0} คน
+pirateChecklist_task2,Hire {0} chefs,จ้างพ่อครัว {0} คน
+pirateChecklist_task3,Refill {0} bottle shelves,เติมชั้นวางขวด {0} ชั้น
+pirateChecklist_task4,Own {0} tables for pirates,มีโต๊ะสำหรับโจรสลัด {0} ตัว
+pirateChecklist_task5,Own {0} tables for navy,มีโต๊ะสำหรับทหารเรือ {0} ตัว
+pirateChecklist_task6,Set any chef to focus on expeditions,ตั้งค่าพ่อครัวคนใดก็ได้ให้เน้นการออกเรือสำรวจ
+pirateTutorial_0,Hello and welcome to your very own cozy pirate tavern!,สวัสดีและยินดีต้อนรับสู่โรงเตี๊ยมโจรสลัดแสนอบอุ่นของคุณเอง!
+pirateTutorial_1,"You probably already know the basics of the game - you buy tables and benches, hire staff and sell drinks and food to expand the tavern. If you’re not familiar with the basics, it’s recommended that you play the normal game mode first.",คุณน่าจะรู้จักพื้นฐานของเกมอยู่แล้ว ทั้งการซื้อโต๊ะและม้านั่ง จ้างพนักงาน รวมถึงขายเครื่องดื่มและอาหารเพื่อขยายโรงเตี๊ยม หากยังไม่คุ้นเคยกับพื้นฐาน แนะนำให้ลองเล่นโหมดปกติก่อนนะ
+pirateTutorial_2,"There is a new way to unlock stuff on the pirate map. We need to hire pirate crew, prepare food for them and send them to expeditions.",มีวิธีใหม่ในการปลดล็อกสิ่งต่างๆ บนแผนที่โจรสลัด เราต้องรับสมัครลูกเรือโจรสลัด เตรียมอาหารให้พวกเขา และส่งพวกเขาไปออกเรือสำรวจ
+pirateTutorial_3,Let’s first see how your ship looks like.,ก่อนอื่นมาดูหน้าตาเรือของคุณกันก่อน
+pirateTutorial_4,"This is your pirate ship! It might not look like much, but you can upgrade it to increase its total power in order to complete some future expeditions.",นี่คือเรือโจรสลัดของคุณ! ตอนนี้อาจจะยังดูธรรมดา แต่คุณสามารถอัปเกรดเพื่อเพิ่มพลังรบโดยรวมสำหรับภารกิจการออกเรือสำรวจในอนาคตได้
+pirateTutorial_5,"To start expeditions, we need at least 1 crew member, so let’s hire someone.",การเริ่มออกเรือสำรวจต้องใช้ลูกเรืออย่างน้อย 1 คน มาลองรับสมัครใครสักคนกันเถอะ
+pirateTutorial_6,Each pirate gives you a bonus for ship power (<sprite index=27>) and a chance to find a treasure (<sprite index=28>). They also have a salary needed for each day of the expedition and dietary requirements. Let’s hire any of these four pirates.,โจรสลัดแต่ละคนจะช่วยเพิ่มโบนัสพลังรบเรือ (<sprite index=27>) และโอกาสพบสมบัติ (<sprite index=28>) นอกจากนี้พวกเขายังมีค่าจ้างที่ต้องจ่ายต่อวันในการออกเรือสำรวจและปริมาณอาหารที่ต้องการด้วย มาลองรับสมัครโจรสลัดคนใดก็ได้จาก 4 คนนี้กัน
+pirateTutorial_7,Great job! Let’s go back now.,เยี่ยมมาก! ตอนนี้กลับไปกันเถอะ
+pirateTutorial_8,Let’s start the first expedition now!,มาเริ่มการออกเรือสำรวจครั้งแรกกันเลย!
+pirateTutorial_9,"Since your crew member has certain dietary requirements, your chefs will be in charge of preparing some food that’ll be consumed on the expedition.",เนื่องจากลูกเรือของคุณมีความต้องการด้านอาหาร พ่อครัวของคุณจะเป็นผู้รับผิดชอบในการเตรียมอาหารที่จะนำไปใช้กินระหว่างการออกเรือสำรวจ
+pirateTutorial_10,This expedition will reward you with a new drink type - grog. Let’s start the preparation immediately!,การออกเรือสำรวจครั้งนี้จะให้รางวัลเป็นเครื่องดื่มชนิดใหม่นั่นคือ กร็อก มาเริ่มเตรียมเสบียงกันทันทีเลย!
+pirateTutorial_11,"Since you already have 2 chefs hired, let’s set one of them to focus on preparing food for expeditions and leave the other one to focus on preparing food for guests.",เนื่องจากคุณจ้างพ่อครัวไว้ 2 คนแล้ว ลองตั้งค่าให้คนหนึ่งเน้นเตรียมอาหารสำหรับการออกเรือสำรวจ และให้อีกคนเน้นเตรียมอาหารสำหรับแขกในร้านกันเถอะ
+pirateTutorial_12,"Great job! This chef will now prioritize preparing food for expeditions. If there is no expedition that needs food, they will certainly not be idle! There are always hungry guests!",ยอดเยี่ยม! ตอนนี้พ่อครัวคนนี้จะให้ความสำคัญกับการเตรียมอาหารสำหรับการออกเรือสำรวจเป็นอันดับแรก แต่ถ้าไม่มีการออกเรือสำรวจที่ต้องการอาหาร พวกเขาก็จะไม่ยืนว่างแน่นอน! เพราะยังมีแขกที่หิวโหยรออยู่เสมอ!
+pirateTutorial_13,"This is it for now, you’re ready to continue on your own. There is a checklist on top left part of the screen that you’ll have to complete before you’re able to start the new day. Good luck!",สำหรับตอนนี้ก็มีเท่านี้ คุณพร้อมลุยต่อด้วยตัวเองแล้ว ที่มุมซ้ายบนของหน้าจอจะมีรายการสิ่งที่ต้องทำซึ่งคุณต้องทำให้ครบก่อนจึงจะเริ่มวันใหม่ได้ ขอให้โชคดี!
+settingsPopup_uiScale,UI Scale,ขนาด UI
+newProduct_buy,Buy Now!,ซื้อเลย!
+newProduct_notOwned,DLC not owned,ยังไม่มี DLC นี้
+newProduct_notOwnedAndCantLoadSteam,"It seems that you don't own the Tavern Master: Pirates Retreat DLC. If you have already purchased it, check that your Steam client is running.",ดูเหมือนว่าคุณยังไม่มี DLC Tavern Master: Pirates Retreat หากคุณซื้อแล้ว โปรดตรวจสอบว่าไคลเอนต์ Steam ของคุณกำลังทำงานอยู่
+newProduct_notOwnedAndCantLoadEpic,It seems that you don't own or haven't downloaded the Tavern Master: Pirates Retreat DLC.,ดูเหมือนว่าคุณยังไม่มีหรือยังไม่ได้ดาวน์โหลด DLC Tavern Master: Pirates Retreat
+newProduct_notOwnedAndCantLoadGog,It seems that you don't own or haven't downloaded the Tavern Master: Pirates Retreat DLC.,ดูเหมือนว่าคุณยังไม่มีหรือยังไม่ได้ดาวน์โหลด DLC Tavern Master: Pirates Retreat
+pirateTreasure_tooltipGeneral,"<color=#FFFFFF>New Treasure!</color>
+<color=#B0B0B0>Collect 6 different treasures and get <color=#FFFFFF>{0}{1}</color> in return!</color>","<color=#FFFFFF>สมบัติใหม่!</color>
+<color=#B0B0B0>สะสมสมบัติให้ครบ 6 แบบที่แตกต่างกัน แล้วรับ <color=#FFFFFF>{0}{1}</color> ตอบแทน!</color>"
+messagePopup_supplyStoragePirateInfo,Refill storage is used to automatically refill all the kitchen crates and bottle shelves on the same floor during the night.,คลังเติมเสบียงใช้สำหรับเติมลังวัตถุดิบในครัวและชั้นวางขวดทั้งหมดบนชั้นเดียวกันโดยอัตโนมัติในช่วงกลางคืน
